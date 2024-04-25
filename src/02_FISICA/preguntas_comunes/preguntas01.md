@@ -51,38 +51,34 @@ $a = 0.5 \, \text{m/s}^2$
 Por lo tanto, la aceleración del bloque es de $a = 0.5 \, \text{m/s}^2$.
 
 ---
+3. Dos niños de la misma masa se balancean cada uno en un columpio, en determinado momento se encuentran a la misma altura, pero en extremos opuestos como se muestra en la figura. Cual de las  siguientes afirmaciones a cerca de sus energias potenciales con respecto al piso es verdadera?
 
-3. (Pregunata incompleta) Dos niños de la misma edad se balacean en un columpio ...
+![Problema 03](./imagen020103.png)
 
-    R:  $EP_{\text{A}} = EP_{\text{B}} \neq 0$
+Dado que $EP = m*g*h$ y ambos niños (A y B) tienen la misma masa, estan a la misma altura y tiene la misma gravedad nos da que:
+
+R:  $EP_{\text{A}} = EP_{\text{B}} \neq 0$
+
 ---
 
 4. (MAL CORREGIR: 6:30) Un objeto de 60N de peso esta sujeto a dos fuerza $F_1 = F_2 = 30{\text{N}}$ (No tenemos friccion) ¿Cual es su aceleración?
+ 
 
-Para encontrar la aceleración del objeto, podemos utilizar la segunda ley de Newton, que establece que la fuerza neta aplicada a un objeto es igual al producto de su masa y su aceleración. La fuerza neta en este caso es la suma de las fuerzas aplicadas:
+![Problema 03](./imagen020104.jpeg)
 
-$ F_{\text{neta}} =\sum F$
+El movimiento es horizontal, dado que esta apoyado en el piso. Las fuerzas perpendiculares, normales o verticales no intervienen en el movimiento.
 
+Solo $F_{2}$ produce el movimiento
 
-En este problema, hay una fuerza hacia arriba (F1F1​) y otra hacia abajo (F2F2​). La fuerza neta se calcula restando la fuerza hacia abajo de la fuerza hacia arriba:
+$F_{neta}=m*g$
 
-$F_{\text{neta}} = F_1 - F_2$
+$m = F_{neta}/g = 60/10 = 6kg$
 
+$F_{1} = F_{2} = 30 = 6 * a$
 
-Sustituimos los valores conocidos:
+$30 = 6*a$
 
-$F_{\text{neta}} = 30 \, \text{N} - 30 \, \text{N}$
-
-$F_{\text{neta}} = 0$
-
-
-Dado que la fuerza neta es cero, según la segunda ley de Newton, la aceleración del objeto también será cero. No hay una aceleración neta porque las fuerzas se equilibran. En términos matemáticos:
-
-$F_{\text{neta}} = m \cdot a$
-
-Como $F_{\text{neta}} = 0$, la aceleración (a) será igual a cero.
-
-En resumen, el objeto no experimentará aceleración y permanecerá en equilibrio bajo la acción de las dos fuerzas opuestas.  
+$ a = 30/6 = 5 m/s^2$ 
 
 --- 
 5. (MAL CORREGIR: 7:10) Mezclamos 200 gr de una sustacia a 60 grados Centigrados con 100 gramos de la mismca sustaciona pero a 20 centigrados ¿Cual es su temperatura de equilibrio?

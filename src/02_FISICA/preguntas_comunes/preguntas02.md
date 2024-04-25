@@ -33,7 +33,7 @@ R: 18 cm
 
 7.  Relaciona los diagramas considerando la trayectoria de un haz de luz que corresponde a los fenomenos de reflexion y refracción respectivamente. 
 
-![Problema 07](./imagen0207.png)
+![Problema 07](./imagen020207.png)
 
 R: I-b y II-a
 
