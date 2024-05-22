@@ -61,7 +61,7 @@ R:  $EP_{\text{A}} = EP_{\text{B}} \neq 0$
 
 ---
 
-4. (MAL CORREGIR: 6:30) Un objeto de 60N de peso esta sujeto a dos fuerza $F_1 = F_2 = 30{\text{N}}$ (No tenemos friccion) ¿Cual es su aceleración?
+4. Un objeto de 60N de peso esta sujeto a dos fuerza $F_1 = F_2 = 30{\text{N}}$ (No tenemos friccion) ¿Cual es su aceleración?
  
 
 ![Problema 03](./imagen020104.jpeg)
@@ -81,21 +81,60 @@ $30 = 6*a$
 $ a = 30/6 = 5 m/s^2$ 
 
 --- 
-5. (MAL CORREGIR: 7:10) Mezclamos 200 gr de una sustacia a 60 grados Centigrados con 100 gramos de la mismca sustaciona pero a 20 centigrados ¿Cual es su temperatura de equilibrio?
+5. Se mezcla 200 g de agua en fase líquida a 20 °C con 100 gramos de agua en fase líquida a 80 °C. ¿Cuál es su temperatura de equilibrio?
 
-Dados dos cuerpos con masas $m_1 = 200 \, \text{g}$ y $m_2 = 100 \, \text{g}$, temperaturas iniciales 
+Sabiendo que se mezcla 200 g de agua en fase líquida a 20 ºC con 100 gramos de agua en fase líquida a 80 ºC, tenemos que la temperatura de equilibrio es de 40 ºC.
 
-$T_1 = 60 \,  \text{C}$ y $T_2 = 20 \, \text{C}$, y la misma sustancia, la temperatura de equilibrio ($T_{\text{final}}$) se puede calcular utilizando la ecuación de conservación de la energía térmica:
+¿Cómo encontrar la cantidad de calor?
 
-$$ m_1c_1(T_1) + m_2c_2(T_2) = mc_{\text{final}}(T_{\text{final}}) $$
+La cantidad de calor se define mediante la siguiente fórmula:
 
-donde $c$ es la capacidad calorífica específica de la sustancia. Primero, convertimos las temperaturas a kelvins:
+Q = m·cp·ΔT
 
-$$ T_1 = 60 + 273.15 $$
-$$ T_2 = 20 + 273.15 $$
+Donde:
 
-Luego, sustituimos los valores conocidos y resolvemos para $T_{\text{final}}$.
+    Q = cantidad de calor
+    m = masa
+    cp = calor específico
+    ΔT = diferencia de temperatura
 
+Condición para resolver el problema
+
+Para solucionar este problema debemos plantear que todo el calor cedido por el agua caliente es absorbido por el agua fría, es decir:
+
+Q = -Q'
+
+Resolución del problema
+
+Teniendo en cuenta la consideración anterior, procedemos a buscar la temperatura de equilibrio definiendo cada calor:
+
+Q = -Q'
+
+m·cp·ΔT = -m'·cp·ΔT'
+
+Tenemos que el calor específica se cancela porque estamos hablando de la misma sustancia (agua), entonces:
+
+m·ΔT = -m'·ΔT'
+
+(200 g)·(Te - 20 ºC) = -(100 g)·(Te - 80 ºC)
+
+(Te - 20 ºC) = (100/200)·(80 ºC - Te)
+
+Te - 20 ºC = (1/2)·(80 ºC - Te)
+
+Te - 20 ºC = 40 ºC - Te/2
+
+Te + Te/2 = 40 ºC + 20 ºC
+
+3Te/2 = 60 ºC
+
+Te = (2)·(60 ºC)/3
+
+Te = 40 ºC
+
+Por tanto, la temperatura de equilibrio es de 40 ºC.
+
+R:
 --- 
 
 6. Para que exista energia en forma de calor deben ser diferentes:
