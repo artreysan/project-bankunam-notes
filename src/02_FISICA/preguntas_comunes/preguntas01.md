@@ -146,7 +146,8 @@ R:  Diferentes temperaturas
 7. Un corcho tiene una densidad de 0.2 kg/m³ y se sumerge en alcohol etílico cuya densidad es de 0.8 kg/m³ 
 ¿Que porción del objeto representa el parte sumergida?​
 
-Answer:  D) $\frac{1}{4}$.. 
+![Problema 03](./imagen020107.jpeg)
+
 Explanation: 
 
 Step 1: Determine the relationship between the densities to find the fraction of the cork submerged.
