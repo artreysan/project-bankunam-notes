@@ -143,8 +143,23 @@ R:  Diferentes temperaturas
 
 --- 
 
-7.  Un corcho tiene una densidad de 0.2x(10^-3) KG/m3 y esta un liquido que tiene una densidad e 0.8x(10^-3) KG/m3 
-Que porcion del corcho se sumerge?
+7. Un corcho tiene una densidad de 0.2 kg/m³ y se sumerge en alcohol etílico cuya densidad es de 0.8 kg/m³ 
+¿Que porción del objeto representa el parte sumergida?​
+
+Answer:  D) $\frac{1}{4}$.. 
+Explanation: 
+
+Step 1: Determine the relationship between the densities to find the fraction of the cork submerged.
+
+Step 2: Use the formula for the fraction of an object submerged in a fluid: 
+ $\frac{V_{\text{submerged}}}{V_{\text{total}}} = \frac{\rho_{\text{object}}}{\rho_{\text{fluid}}}$.
+
+Step 3: Substitute the given densities into the formula: 
+ $\frac{V_{\text{submerged}}}{V_{\text{total}}} = \frac{0.2\times 10^{3}}{0.8\times 10^{3}}$.
+
+Step 4: Simplify the fraction: 
+ $\frac{V_{\text{submerged}}}{V_{\text{total}}} = \frac{1}{4}$
+
 R: 1/4
 
 --- 
