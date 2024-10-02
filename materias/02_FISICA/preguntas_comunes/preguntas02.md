@@ -145,30 +145,30 @@ R: La velocidad de los objetos aumenta 9.78 m/s cada segundo de caida.
 
 ---
 10. La potencia que produce un horno de microondas es de 1200 W, si la diferencia de potencial es de 120 V, ¿Cuanta corriente circula? 
-Para calcular la corriente $\(I\)$ , puedes usar la ley de Ohm, que establece la relación entre la potencia $\(P\)$, la diferencia de potencial $\(V\)$, y la corriente $\(I\)$ en un circuito:
+Para calcular la corriente $I$ , puedes usar la ley de Ohm, que establece la relación entre la potencia $P$, la diferencia de potencial $V$, y la corriente $I$ en un circuito:
 
-$\[ P = IV \]$
+$ P = IV $
 
 Donde:
 
-- $\(P\)$ es la potencia en vatios (W),
+- $P$ es la potencia en vatios (W),
 
-- $\(I\)$ es la corriente en amperios (A), y
+- $I$ es la corriente en amperios (A), y
 
-- $\(V\)$ es la diferencia de potencial en voltios (V).
+- $V$ es la diferencia de potencial en voltios (V).
 
-En este caso, conoces la potencia (\(P = 1200 \, \text{W}\)) y la diferencia de potencial (\(V = 120 \, \text{V}\)), y deseas encontrar la corriente (\(I\)).
+En este caso, conoces la potencia ($P = 1200 \, \text{W}$) y la diferencia de potencial ($V = 120 \, \text{V}$), y deseas encontrar la corriente ($I$).
 
-Rearregando la fórmula para resolver \(I\):
+Rearregando la fórmula para resolver $I$:
 
-$\[ I = \frac{P}{V} \]$
+$ I = \frac{P}{V} $
 
 Sustituyendo los valores conocidos:
 
-$\[ I = \frac{1200 \, \text{W}}{120 \, \text{V}} \]$
+$ I = \frac{1200 \, \text{W}}{120 \, \text{V}}$
 
-$\[ I = 10 \, \text{A} \]$
+$ I = 10 \, \text{A} $
 
-Por lo tanto, la corriente que circula en el horno de microondas es de \(10 \, \text{A}\).
+Por lo tanto, la corriente que circula en el horno de microondas es de $10 \, \text{A}$.
 R: 10 A 
 
