@@ -147,7 +147,8 @@ R: Fision nuclear
 R: 1era ley de Newton 
 
 >![Leyes de Newton](./F03_09.png)
->     Las Tres Leyes de Newton:
+>
+> Las Tres Leyes de Newton:
 > 
 >1. Primera Ley - Ley de la Inercia:
 > - Un cuerpo permanece en reposo o en movimiento rectilíneo uniforme a menos que actúe sobre él una fuerza externa.
