@@ -39,23 +39,23 @@
 
 4. **¿Cuál es la masa molecular del bicarbonato de calcio (Ca(HCO₃)₂)?**
 
-   > **R:** 162 g/mol
+> **R:** 162 g/mol
 
-   > **E:**
-   > 
-   > | Elemento     | Masa Atómica | Cantidad | Total      |
-   > |--------------|--------------|----------|------------|
-   > | Calcio (Ca)  | 40.08        | 1        | 40.08      |
-   > | Hidrógeno (H) | 1.008        | 2        | 2.016      |
-   > | Carbono (C)  | 12.01        | 2        | 24.02      |
-   > | Oxígeno (O)  | 16           | 6        | 96         |
-   >
-   > Total = 162.116 g/mol
+> **E:**
+> 
+> | Elemento     | Masa Atómica | Cantidad | Total      |
+> |--------------|--------------|----------|------------|
+> | Calcio (Ca)  | 40.08        | 1        | 40.08      |
+> | Hidrógeno (H) | 1.008        | 2        | 2.016      |
+> | Carbono (C)  | 12.01        | 2        | 24.02      |
+> | Oxígeno (O)  | 16           | 6        | 96         |
+>
+> Total = 162.116 g/mol
 
-   > ![Calcio](./Q01_04_01.jpg)
-   > ![Hidrógeno](./Q01_04_02.jpg)
-   > ![Carbono](./Q01_04_03.webp)
-   > ![Oxígeno](./Q01_04_04.webp)
+> ![Calcio](./Q01_04_01.jpg)
+>![Carbono](./Q03_10_01.jpg)
+>![Hidrogeno](./Q03_10_03.png)
+>![Oxigeno](./Q03_10_02.png)
 
 ---
 
