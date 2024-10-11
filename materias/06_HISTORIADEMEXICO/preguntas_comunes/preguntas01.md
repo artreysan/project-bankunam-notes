@@ -8,7 +8,7 @@
 > - **Características**: 
 >   - Se estableció una monarquía constitucional, pero con poderes centralizados en el emperador.
 >   - El Imperio fue corto, debido a la insatisfacción con la forma de gobierno y la creciente presión para adoptar una república.
-> - **Fin**: En 1823, Iturbide abdicó y se proclamó la **República Federal**.
+> - **Fin**: En 1823, Iturbide abdicó (renunciar voluntariamente a un cargo o puesto de poder) y se proclamó la **República Federal**.
 
 ![Agustín de Iturbide](./HM01_01.jpg)
 
@@ -21,11 +21,14 @@
 >
 > - **Desconocimiento del gobierno de Sebastián Lerdo de Tejada**, a quien acusaba de intentar perpetuarse en el poder a través de la reelección.
 > - **No reelección presidencial**, estableciendo que ningún presidente debería gobernar de manera consecutiva.
+>
+> ![Sebastian Lerdo de Tejada](./HM01_02_01.png)
+>
 > - **Reforma política**: Díaz buscaba implementar un gobierno más liberal, acusando al régimen de Lerdo de ser centralista y autoritario.
 >
 > El Plan de Tuxtepec tuvo éxito tras la batalla de **Tecoac**, permitiendo a Díaz asumir la presidencia, marcando el inicio de su largo régimen.
 >
-> ![Porfirio Diaz](./HM01_02.png)
+> ![Porfirio Diaz](./HM01_02_02.png)
 ---
 3. Le etapa en la que la economia mexica crecio un una tasa del 7% se le conoce con el nombre de ________
 
@@ -42,10 +45,15 @@
 >
 > ### Líderes:
 > - **Adolfo Ruiz Cortines** (1952-1958): Inició las políticas de estabilización.
+>
 > ![Adolfo Ruiz Cortines](./HM01_03_01.png)
+>
 > - **Adolfo López Mateos** (1958-1964): Consolidó el crecimiento industrial.
+>
 > ![Adolfo López Mateos](./HM01_03_02.png)
+>
 > - **Gustavo Díaz Ordaz** (1964-1970): Culminó el periodo de estabilidad.
+>
 > ![Gustavo Díaz Ordaz](./HM01_03_03.png)
 >
 > ### Fin del Desarrollo Estabilizador:
@@ -90,9 +98,11 @@
 6. Acontecimientos mas representativos de Adolfo Lopez Mateo: 
 > R: LIBROS DE TEXTO GRATUITO, MEXICO RECUPERA EL CHAMIZAL y ESTABLECIO DESAYUNO EN LAS ECUELAS GRATUITO
 
-> E: Durante el gobierno de **Adolfo López Mateos** (1958-1964) en México:
+**E: Durante el gobierno de **Adolfo López Mateos** (1958-1964) en México:**
 
 > México recuperó el **Chamizal** el **29 de diciembre de 1966** mediante la firma de un tratado con los Estados Unidos. Este acuerdo resolvió un conflicto territorial que se había prolongado durante más de un siglo debido a cambios en el curso del río Bravo (Río Grande) que habían modificado la frontera entre ambos países.
+>
+> ![Adolfo López Mateos](./HM01_03_02.png)
 >
 > ### Contexto:
 > - **Conflicto**: El conflicto se originó en el siglo XIX y se agravó por el desvío del curso del río, lo que llevó a disputas sobre la posesión de tierras.
