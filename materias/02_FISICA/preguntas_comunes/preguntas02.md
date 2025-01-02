@@ -57,6 +57,7 @@ P= 10 kg* 9.8 m/s²
 P= 98 N
 
 R: 98 N
+
 ---
 
 4. Un gato hidraulico se utiliza para cambiar la llanta de un coche. Si se le aplica una fueza de 80 Newtons en un area de 5 cm^2 sobre el émbolo del piston y el auto se recarga en un area de 25 cm^2. ¿Que fuerza se genera?

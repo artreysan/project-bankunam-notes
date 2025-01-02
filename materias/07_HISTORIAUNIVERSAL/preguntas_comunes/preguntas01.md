@@ -62,7 +62,7 @@ R: El cartismo
 ---
 5. Organización militar que tiene como objetivo la defensa de los libertados democreaticos a travez de una estrecha colaboracion politica con el bloque capitalista: 
 
-> R: Organizacion de las Naciones Unidas
+> R: OTAN
 ---
 
 6. Cuales fueron las consecuencias de la segunda guerra mundial:
@@ -84,22 +84,7 @@ R: El cartismo
 ---
 7. El apoyo de EUA o de la URSS a los movimientos de la liberacion nacional y la carrera por el desarrollo cientifico-tecnologic son caracteristicas de: 
 
-> R: Crisis de los misiles
-
-> E: 
->
-> **Crisis de los Misiles (1962):**
->
-> - **Contexto:** Fue un enfrentamiento de 13 días entre Estados Unidos y la Unión Soviética durante la Guerra Fría.
->
-> - **Causa:** La crisis se desencadenó cuando Estados Unidos descubrió que la Unión Soviética estaba instalando misiles nucleares en Cuba, a solo 150 kilómetros de la costa estadounidense.
->
-> - **Desarrollo:** El presidente estadounidense John F. Kennedy exigió la retirada de los misiles y ordenó un bloqueo naval (llamado "cuarentena") alrededor de Cuba para evitar la llegada de más armas.
->
-> - **Resolución:** Después de intensas negociaciones, la Unión Soviética acordó retirar los misiles de Cuba a cambio de que Estados Unidos se comprometiera a no invadir la isla y también retirara sus misiles de Turquía.
->
-> - **Consecuencias:** La crisis marcó un punto álgido en la Guerra Fría y condujo a la instalación de una línea directa de comunicación entre Washington y Moscú (el "teléfono rojo") para evitar futuros conflictos.
-
+> R: Guerra Fria
 
 ---
 8. Los Historiados reconstruyen procesos historicos mediante la: 

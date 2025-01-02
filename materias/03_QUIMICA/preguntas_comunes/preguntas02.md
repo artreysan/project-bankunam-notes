@@ -109,16 +109,13 @@ R: Base o hidroxido
 
 > #### Uso del Papel Tornasol 
 > 
-> El **papel tornasol** es un indicador comúnmente utilizado para identificar si una sustancia es ácida o básica. Viene en dos formas: **papel tornasol rojo** y **papel tornasol azul**. Cuando se usa en la detección de ácidos, el papel tornasol responde de la siguiente manera:
+> La sustancia que cumple con las características descritas (produce un color azul con papel tornasol y reacciona con la fenolftaleína) es una **base** o **alcalina**.
 > 
-> #### Comportamiento del papel tornasol 
+> 1. **Papel tornasol azul**: Las bases cambian el papel tornasol rojo a azul, indicando su naturaleza básica.
+> 2. **Fenolftaleína**: Este indicador se vuelve **rosado** o **fucsia** en contacto con soluciones básicas, confirmando la presencia de una base.
 > 
-> - Si el papel tornasol azul se vuelve rojo, la solución es ácida.
-> - Si el papel tornasol rojo se vuelve azul, la solución es básica o alcalina.
->
-> #### Conclusion rapida: 
-> - AZUL: Acido
-> - ROJO: Base
+> Ejemplos comunes de bases incluyen el **hidróxido de sodio (NaOH)** y el **hidróxido de potasio (KOH)**.
+
 
 ---
 
@@ -193,8 +190,6 @@ R: CaO
 >     $
 >      \text{SO}_3 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{SO}_4
 >     $
-> ### Conclusión:
-> Por lo tanto, **SO₃ es efectivamente un óxido ácido**.
 
 --- 
 9.  Enlace presente entre aminoacidos cuando forma un  a proteina 

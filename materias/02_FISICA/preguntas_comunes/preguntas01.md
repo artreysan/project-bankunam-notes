@@ -109,7 +109,7 @@ Dado que $EP = m*g*h$ y ambos niños (A y B) tienen la misma masa, estan a la mi
 >
 > $P = m \cdot g$
 > 
-> F_{neta}$m = P/g = 60/10 = 6kg$ (masa del objeto)
+> $ F_(neta) m = P/g = 60/10 = 6kg $ (masa del objeto)
 >
 > Analizar las fuerzas:
 > - F₁ actúa verticalmente hacia arriba

@@ -7,6 +7,7 @@
 > Y lo mismo aplica para 24 de diciembre, 6:58 de la noche.  
 > Así que 25 de diciembre, 7:58 de la noche es la respuesta correcta porque tiene una fecha menor a la de Indonesia y si restamos las horas de diferencia al horario de Indonesia, es decir, restamos 12 horas a las 7:58 de la mañana, nos dará 7:58 de la noche.
 
+![Husos Horarios](./G02_01.jpg)
 ---
 
 2. La existencia de fósiles marinos en la cumbre de los montes Himalaya se debe a ___________ entre las placas ___________.
@@ -71,7 +72,9 @@
 
 9. La industria más importante en la ciudad de Monterrey es la:
 
-> R: Siderúrgica 
+**R: Siderúrgica**
+
+> Una siderúrgica es una industria dedicada a la **producción de acero** a partir de la transformación del mineral de hierro. En estas plantas, el mineral se procesa mediante altos hornos y otros equipos para obtener acero, que luego se usa en diversas aplicaciones como construcción, automóviles, maquinaria, etc. La palabra proviene del griego "sideros" (hierro), y se refiere a todo lo relacionado con la transformación de este metal.
 
 ---
 

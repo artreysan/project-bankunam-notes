@@ -22,7 +22,6 @@
 > 
 > La respuesta correcta es "Rodrigo renunció a su cargo en el despacho", ya que es la oración que contiene la acción principal sobre la que gira el resto del texto. Las consecuencias descritas después dependen de esa acción.
 
-
 ---
 2. Completa la analogia del siguiente enunciado:
 
@@ -41,22 +40,14 @@ Musico es a orquesta como actor a:
 > En este caso, la relación es que un libro se utiliza para leer, de la misma manera que un lápiz se utiliza para escribir.
 
 ---
-3. "Hombrea-Cohete y tambien Golondrina anaña en vele que hila con luna su tela" ¿Funcion de la lengua? 
+3. "Hombre-cohete y también golondrinas araña en vela que hila con luna su tela" ¿Funcion de la lengua? 
 
 ***R:  Poética***
 
 > E: 
 >
-> La función de la lengua en esta frase es la **función poética**. El poema que mencionas es un ejemplo de un poema surrealista o abstracto, en el que se utiliza un lenguaje simbólico y metafórico para evocar imágenes y sensaciones en lugar de presentar una narrativa clara y directa. Aquí está una interpretación de cada parte del poema:
->
->- "Hombrea-Cohete": Este fragmento parece combinar las palabras "hombre" y "cohete". Puede sugerir la idea de un hombre que se lanza o asciende rápidamente, como un cohete, implicando una transformación o una acción dinámica.
->
->- "Golondrina anaña en vele": Las golondrinas son aves que suelen ser asociadas con el vuelo y la libertad. La palabra "anaña" parece ser una variante o un error tipográfico de "anida", que significa construir un nido. "Vele" puede ser un error o una forma poética de "vuele" o "ve". En conjunto, sugiere que la golondrina está construyendo su nido mientras vuela.
->
->- "Que hila con luna su tela": Aquí, "hilar" significa tejer, y "tela" se refiere al material que se teje. La luna puede simbolizar la inspiración o un aspecto mágico. Por lo tanto, esta parte puede estar sugiriendo que el proceso de creación o tejer (metafóricamente hablando) está influenciado por la luna.
->
->En resumen, el poema parece evocar imágenes de transformación y creación mediante el uso de metáforas, combinando elementos de la naturaleza (como el hombre y la golondrina) con símbolos de acción y magia (cohete, luna). La interpretación es subjetiva y puede variar según la perspectiva del lector. 
->
+> El poema "Hombre-cohete y también golondrinas araña en vela que hila con luna su tela" puede desglosarse paso por paso para entender mejor las imágenes y metáforas que usa.
+> 
 > Una **función de la lengua** es el propósito o la intención con la que se usa el lenguaje en la comunicación. Según el contexto y la finalidad del mensaje, el lenguaje puede cumplir diferentes funciones:
 >
 > - **Referencial**: Informar o transmitir información objetiva.
@@ -74,7 +65,6 @@ Musico es a orquesta como actor a:
 > E: 
 >
 > La función predominante en la oración "No te limites date el gusto de usar una computadora Dell" es la **función conativa o apelativa**, ya que busca influir en el receptor para que realice una acción, en este caso, la compra de una computadora Dell.
-
 
 ---
 5. Selecciona el antonimo de la palabra en mayusculas considerando el contexto:
@@ -158,7 +148,6 @@ Desde que dejaste la jefatura, el mes pasado, es un caos nuestro departamento de
 > - **Oración Principal**: Expresa la idea central y el punto principal del enunciado. En este caso, la oración principal indica la condición actual del departamento de publicaciones, que es el tema central de la oración.
 > 
 > - **Oración Subordinada**: La parte "Desde que dejaste la jefatura, el mes pasado, ya que tiene nuevos colaboradores" proporciona información adicional que explica o amplía el contexto de por qué el departamento está en caos. Estas son oraciones secundarias que dependen de la oración principal para tener sentido completo.
-
 
 ---
 9. Localice el objeto directo (OD) de la siguiente oracion: "Veronica y Esteban llevan a su hijo a la escuela a las 7:45 am"
