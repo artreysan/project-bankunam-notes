@@ -10,7 +10,7 @@ R: Maquiladora
 
 R: Salamanca, Tula y Pozo rica 
 
-> ![Descripción](./G02_03.png)
+> ![Descripción](./images/G04_02.png)
 
 ---
 3. La existencia de aeropuertos internacionales en el sureste de Mexico se relaciona con las actividades:  
@@ -56,7 +56,7 @@ R: Corrientes convectivas
 
 > Las **corrientes convectivas** son movimientos circulares del material en el manto terrestre causados por diferencias de temperatura y densidad. Funcionan como un mecanismo de transporte de calor desde el interior de la Tierra hacia la superficie.
 >
-> ![Corrientes convectivas](./G04_06.jpg)
+> ![Corrientes convectivas](./images/G04_06.jpg)
 >
 > ### Características:
 > - Se originan debido al **calor interno** generado por la desintegración de elementos radiactivos en el núcleo.
@@ -73,7 +73,7 @@ R: Divergentes
 
 > A las zonas donde las placas tectónicas tienden a separarse se les denomina **zonas de divergencia** o **bordes divergentes**.
 >
-> ![Corrientes convectivas](./G04_07.jpg)
+> ![Corrientes convectivas](./images/G04_07.jpg)
 > ### Características:
 > - Son áreas donde las placas se **alejan** entre sí.
 > - Permiten la **formación de nueva corteza oceánica** mediante la salida de magma desde el manto.
@@ -87,7 +87,7 @@ R: Divergentes
 
 R: Manto superior
 
-> ![Capas de la tierra](./G04_08.jpg)
+> ![Capas de la tierra](./images//G04_08.jpg)
 
 ---
 9. A las zonas donde las placas tectonicas tienden a entrar en contacto, se les denomina: 
@@ -96,7 +96,7 @@ R: Subduccion
 
 > La **zona de subducción** es una región donde una placa tectónica se **sumerge** debajo de otra. Este proceso ocurre en los **bordes convergentes**, cuando una placa más densa (generalmente oceánica) se hunde bajo una placa menos densa (continental o oceánica).
 >
-> ![Zona de subduccion](./G04_09.jpg)
+> ![Zona de subduccion](./images/G04_09.jpg)
 >
 > ### Características:
 > - Se generan **fosas oceánicas** en la superficie y **montañas** o **arcos volcánicos** en tierra.

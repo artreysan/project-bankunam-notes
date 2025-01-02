@@ -23,7 +23,7 @@
 > 
 > 3. **Placa del Caribe**: Afecta principalmente la parte sureste de México, en la península de Yucatán, aunque su influencia es menor comparada con la de la Placa de Cocos.
 > 
-> ![Placas tectonicas en Mexico](./G03_02.jpg)
+> ![Placas tectonicas en Mexico](./images/G03_02.jpg)
 >
 > La interacción entre estas placas, especialmente la subducción de la Placa de Cocos, es responsable de gran parte de la actividad sísmica en el sur y centro de México.
 
@@ -92,7 +92,7 @@ R: Aguas subterraneas
 
 ***R:  I: C , II: B , III: A***
 
-> ![Placas tectonicas en Mexico](./G03_06.jpg)
+> ![Placas tectonicas en Mexico](./images/G03_06.jpg)
 --- 
 7. La region natural que presenta un clima tropical con lluvias todo el ano corresponde a la _________ y se ubica entre otros sitios _______ 
 

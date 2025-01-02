@@ -7,7 +7,7 @@
 > Y lo mismo aplica para 24 de diciembre, 6:58 de la noche.  
 > Así que 25 de diciembre, 7:58 de la noche es la respuesta correcta porque tiene una fecha menor a la de Indonesia y si restamos las horas de diferencia al horario de Indonesia, es decir, restamos 12 horas a las 7:58 de la mañana, nos dará 7:58 de la noche.
 
-![Husos Horarios](./G02_01.jpg)
+![Husos Horarios](./images//G02_01.jpg)
 ---
 
 2. La existencia de fósiles marinos en la cumbre de los montes Himalaya se debe a ___________ entre las placas ___________.
@@ -15,7 +15,7 @@
 > R: La colisión, Euroasiática e Indo-Australiana 
 
 > E: El Himalaya se formó por el choque de dos placas continentales, una, la enorme euroasiática y, otra, la subcontinental india que vino de su escisión con la sudafricana. Ambas eran costeras, por lo que se elevaron desde altitud cero con respecto al mar. Eso elevó fósiles miles de metros.  
-> ![Imágenes de formación del Himalaya](./G02_02.jpg)
+> ![Imágenes de formación del Himalaya](./images/G02_02.jpg)
 
 ---
 
@@ -23,7 +23,7 @@
 
 > R: Campeche 
 
-> ![Descripción](./G02_03.png)
+> ![Descripción](./images/G02_03.png)
 
 ---
 
@@ -40,7 +40,7 @@
 
 > R: Yucatán, Quintana Roo
 
-> ![Yucatán y Quintana Roo](./G02_05.png)
+> ![Yucatán y Quintana Roo](./images/G02_05.png)
 
 ---
 
@@ -56,7 +56,7 @@
 
 > R: Frecuentes zonas con hambruna
 
-> ![África Oriental](./G02_07.png)
+> ![África Oriental](./images/G02_07.png)
 
 ---
 
@@ -66,7 +66,7 @@
 
 > E: La disolución de Yugoslavia se refiere a los hechos ocurridos en la antigua Yugoslavia entre el 25 de junio de 1991 y el 27 de abril de 1992, que condujeron a esta disolución y a la formación de seis nuevas repúblicas soberanas (Eslovenia, Croacia, Bosnia-Herzegovina, Montenegro, Macedonia del Norte y Serbia).
 
-> ![Yugoslavia actualmente](./G02_08.jpg)
+> ![Yugoslavia actualmente](./images/G02_08.jpg)
 
 ---
 
