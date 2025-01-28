@@ -25,3 +25,16 @@ R: Una reproduccion fiel del texto consultado
 6. En que casos podemos usar las comillas?
 
 R: En citas textuales
+
+7. Sinonimo de convergente
+R: Confluyente
+
+8. Cual es el sinonimo de proliferar
+R: Acresentamiento
+
+9. Antonimo de interino
+R: Definitivo o Permanente
+
+10. Sinonimo de interino
+R: Pasajero o Temporal
+
