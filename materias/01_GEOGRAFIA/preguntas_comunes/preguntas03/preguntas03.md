@@ -1,6 +1,6 @@
-1. Las zonas de las mesetas presentan caracteristicas economicas o demograficas como:  
+1. Las zonas de las mesetas presentan características económicas o demográficas como:  
 
-***R:Ganaderia extensiva y densidad media de la poblacion***
+***R: Ganadería extensiva y densidad media de la población***
 
 > Las mesetas son áreas planas situadas a cierta altitud sobre el nivel del mar. Las características económicas y demográficas mencionadas tienen una relación con las condiciones geográficas y climáticas de estas zonas.
 > 
@@ -11,9 +11,9 @@
 > En resumen, el clima y el terreno de las mesetas limitan las actividades intensivas, favoreciendo la ganadería y manteniendo una población relativamente moderada.
 
 --- 
-2. Que placas provocan sismisidad en el sur y centro de Mexico 
+2. ¿Qué placas provocan sismicidad en el sur y centro de México? 
 
-***R: Placa de cocos y norteamericana***
+***R: Placa de Cocos y Norteamericana***
 
 > En el sur y centro de México, la sismicidad es provocada principalmente por la interacción de varias placas tectónicas:
 > 
@@ -23,14 +23,14 @@
 > 
 > 3. **Placa del Caribe**: Afecta principalmente la parte sureste de México, en la península de Yucatán, aunque su influencia es menor comparada con la de la Placa de Cocos.
 > 
-> ![Placas tectonicas en Mexico](./images/G03_02.jpg)
+> ![Placas tectónicas en México](./images/G03_02.jpg)
 >
 > La interacción entre estas placas, especialmente la subducción de la Placa de Cocos, es responsable de gran parte de la actividad sísmica en el sur y centro de México.
 
 --- 
-3. Que provoca la canicula a los ganaderos del norte del pais ?
+3. ¿Qué provoca la canícula a los ganaderos del norte del país?
 
-R: Muerte del ganado por sequia 
+R: Muerte del ganado por sequía 
 
 > La **canícula** es un periodo de calor extremo que ocurre durante el verano, generalmente entre julio y agosto, y afecta gravemente a los ganaderos del norte de México. Los efectos principales son:
 > 
@@ -43,9 +43,9 @@ R: Muerte del ganado por sequia
 > En resumen, la canícula pone en riesgo la salud del ganado y aumenta los costos operativos para los ganaderos, impactando negativamente la producción.
 
 --- 
-4. La frecuente actividad sismica en el centro y sur de mexico tiene su origen en:
+4. La frecuente actividad sísmica en el centro y sur de México tiene su origen en:
 
-R: El choque de la placa de cocos contra la norteamericana
+R: El choque de la placa de Cocos contra la Norteamericana
 
 > La frecuente actividad sísmica en el centro y sur de México tiene su origen en la interacción de varias placas tectónicas. Los factores principales son:
 > 
@@ -60,7 +60,7 @@ R: El choque de la placa de cocos contra la norteamericana
 --- 
 5. La mayor cantidad de agua potable para el consumo humano proviene de:  
 
-R: Aguas subterraneas
+R: Aguas subterráneas
 
 > La mayor cantidad de agua potable para el consumo humano proviene principalmente de:
 > 
@@ -74,15 +74,15 @@ R: Aguas subterraneas
 
 
 --- 
-6. Relaciona los rios con los estados por los cuales transcurren su cause 
+6. Relaciona los ríos con los estados por los cuales transcurren su cauce 
 
-    I. Panuco 
+    I. Pánuco 
 
     II. Grijalva 
 
     III. Balsas 
 
-    a. Guerrero y Michoacan
+    a. Guerrero y Michoacán
 
     b. Chiapas y Tabasco  
 
@@ -92,20 +92,20 @@ R: Aguas subterraneas
 
 ***R:  I: C , II: B , III: A***
 
-> ![Placas tectonicas en Mexico](./images/G03_06.jpg)
+> ![Placas tectónicas en México](./images/G03_06.jpg)
 --- 
-7. La region natural que presenta un clima tropical con lluvias todo el ano corresponde a la _________ y se ubica entre otros sitios _______ 
+7. La región natural que presenta un clima tropical con lluvias todo el año corresponde a la _________ y se ubica entre otros sitios _______ 
 
-R: Selva - Cuenca del amazonas
+R: Selva - Cuenca del Amazonas
 
 > La región natural que presenta un clima tropical con lluvias todo el año corresponde a la **selva tropical**, y se ubica, entre otros sitios, en **el sureste de México**, como en los estados de Chiapas, Tabasco y la península de Yucatán, además de regiones como la **Amazonía** en América del Sur, y partes del **sudeste asiático**.
 > 
 > Este tipo de clima es caracterizado por altas temperaturas y precipitaciones constantes, lo que favorece la biodiversidad y el desarrollo de densas áreas boscosas.
 
 --- 
-8. Caracteristicas de los paises desarrollados: 
+8. Características de los países desarrollados: 
 
-R: Alto ingreso per capita y alfabetismo
+R: Alto ingreso per cápita y alfabetismo
 
 > Las características de los países desarrollados incluyen:
 > 
@@ -122,7 +122,7 @@ R: Alto ingreso per capita y alfabetismo
 
 
 --- 
-9. Unos de los cambios en la estructura economica mundial a finales del siglo XX es la adopcion del: 
+9. Uno de los cambios en la estructura económica mundial a finales del siglo XX es la adopción del: 
 
 R: Neoliberalismo
 
@@ -144,7 +144,6 @@ R: Neoliberalismo
 
 
 --- 
-10. La doctrina _______ es aplicada por los paises _______ 
+10. La doctrina _______ es aplicada por los países _______ 
 
-R: Neoliberal - Paises desarrollados
-
+R: Neoliberal - Países desarrollados

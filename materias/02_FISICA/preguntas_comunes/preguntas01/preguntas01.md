@@ -25,7 +25,7 @@
 
 ***R: $a = 0.5 \, \text{m/s}^2$***
 
-![Imagen pregunta 2](./F01_02_01.jpg)
+![Imagen pregunta 2](./images/F01_02_01.jpg)
 
 > Para calcular la aceleración del bloque, podemos usar la segunda ley de Newton, que establece que la fuerza neta aplicada a un objeto es igual al producto de su masa y su aceleración. La fuerza neta es la suma de todas las fuerzas aplicadas al objeto.
 > 
@@ -57,12 +57,12 @@
 
 > NOTA: 
 >
->![Componentes de un vector](./F01_02_02.jpg)
+>![Componentes de un vector](./images/F01_02_02.jpg)
 
 ---
 3. Dos niños de la misma masa se balancean cada uno en un columpio, en determinado momento se encuentran a la misma altura, pero en extremos opuestos como se muestra en la figura. Cual de las  siguientes afirmaciones a cerca de sus energias potenciales con respecto al piso es verdadera?
 
-![Problema 03](./imagen020103.png)
+![Problema 03](./images/F01_03.png)
 
 Dado que $EP = m*g*h$ y ambos niños (A y B) tienen la misma masa, estan a la misma altura y tiene la misma gravedad nos da que:
 
@@ -103,7 +103,7 @@ Dado que $EP = m*g*h$ y ambos niños (A y B) tienen la misma masa, estan a la mi
 4. Un objeto de 60N de peso esta sujeto a dos fuerza $F_1 = F_2 = 30{\text{N}}$ (No tenemos friccion) ¿Cual es su aceleración?
  
 
-![Problema 03](./imagen020104.jpeg)
+![Problema 03](./images/F01_04.jpeg)
 
 > La fórmula del **peso (P)** es:
 >
