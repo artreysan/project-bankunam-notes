@@ -2,7 +2,7 @@
 
 R: Empuje / Principio de Arquimedes
 
-> ![Principio de arquimedes](./F03_01.jpg)
+> ![Principio de arquimedes](./images/F03_01.jpg)
 
 ---
 
@@ -11,7 +11,7 @@ De cuanto sera la Fuerza del embolo mayor?, Si tiene un Radio=12 cm
 
 R:$F_{mayor} = 360 N$
 
-> ![Principio de arquimedes](./F03_02.png)
+> ![Principio de arquimedes](./images/F03_02.png)
 > $F1/A1 = F2/A2$ (A: Area)
 >
 > El émbolo menor (izquierda):
@@ -31,7 +31,7 @@ R:$F_{mayor} = 360 N$
 
 R: Fmayor: 31.25 N
 
-> ![Principio de arquimedes](./F03_02.png)
+> ![Principio de arquimedes](./images/F03_02.png)
 >
 > ### Problema de Prensa Hidráulica
 > 
@@ -75,7 +75,7 @@ La respuesta es:
 > 
 > Es la resistencia que presenta un fluido a fluir debido a la fuerza de cohesión entre sus moléculas. Mayor viscosidad significa mayor resistencia al flujo.
 >
-> ![Viscosidad](./F03_05.png)
+> ![Viscosidad](./images/F03_05.png)
 > En la imagen se muestra:
 > 
 > 1. A la izquierda: 
@@ -138,7 +138,7 @@ R: Fision nuclear
 > - Se liberan más neutrones
 > - Se libera una gran cantidad de energía
 >
->![Fision Nuclear](./F03_08.png)
+>![Fision Nuclear](./images/F03_08.png)
 
 ---
 
@@ -146,7 +146,7 @@ R: Fision nuclear
 
 R: 1era ley de Newton 
 
->![Leyes de Newton](./F03_09.png)
+>![Leyes de Newton](./images/F03_09.png)
 >
 > Las Tres Leyes de Newton:
 > 
@@ -179,4 +179,4 @@ R: Cuando no hay intercambio de energia entre los cuerpos y sus temperaturas son
 > - La transferencia continúa hasta alcanzar la misma temperatura
 > - No hay más transferencia de calor una vez alcanzado el equilibrio
 
->![Equilibrio termico](./F03_10.png)
+>![Equilibrio termico](./images/F03_10.png)
