@@ -156,7 +156,7 @@ R: Tienen espines diferentes
 > ### Resumen:
 > Dos electrones se encuentran en el mismo orbital debido a que tienen **espines opuestos**, permitiendo así que ambos compartan el mismo orbital sin violar el **Principio de Exclusión de Pauli**.
 >
-> ![Pirncipo de Pauli](./Q03_06.png)
+> ![Pirncipo de Pauli](./images/Q03_06.png)
 > 
 > La imagen muestra que dos electrones pueden estar en el mismo orbital debido a que:
 > 1. Tienen spines opuestos (uno "up" ↑ y otro "down" ↓)
@@ -189,7 +189,7 @@ R: Electronegatividad
 > ### Ejemplo:
 > - El oxígeno (O) tiene una electronegatividad de 3.44, por lo que tiende a atraer electrones más fuertemente que el hidrógeno (H), que tiene una electronegatividad de 2.20.
 >
-> ![Índice de electronegatividad](./Q01_010.jpg)
+> ![Índice de electronegatividad](../preguntas01/images/Q01_010.jpg)
 
 ---
 
@@ -219,7 +219,7 @@ R: Fluor
 > ### Resumen:
 > La energía de ionización y la electronegatividad están conectadas en el sentido de que ambas propiedades reflejan la capacidad de un átomo para atraer electrones. Sin embargo, se aplican en contextos diferentes: la energía de ionización se refiere a la pérdida de electrones, mientras que la electronegatividad se refiere a la atracción de electrones en un enlace químico.
 >
-> ![Índice de electronegatividad](Q03_08.jpg)
+> ![Índice de electronegatividad](./images/Q03_08.jpg)
 
 ---
 
@@ -263,9 +263,9 @@ R:
 >   - Hidrógeno (H): 1.01 g/mol × 4 = 4.04 g/mol
 >   - Oxígeno (O): 16.00 g/mol × 2 = 32.00 g/mol
 >
->![Carbono](./Q03_10_01.jpg)
->![Hidrogeno](./Q03_10_03.png)
->![Oxigeno](./Q03_10_02.png)
+>![Carbono](./images/Q03_10_01.jpg)
+>![Hidrogeno](./images/Q03_10_03.png)
+>![Oxigeno](./images/Q03_10_02.png)
 >
 > $$ \text{Masa molar de CH}_3\text{COOH} = 24.02 + 4.04 + 32.00 = 60.06 \text{ g/mol} $$
 >

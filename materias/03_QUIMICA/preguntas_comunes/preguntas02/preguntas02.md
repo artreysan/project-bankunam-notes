@@ -8,7 +8,7 @@
 > - **Mezcla homogénea:** Una mezcla en la que los componentes están uniformemente distribuidos y no se pueden distinguir a simple vista. Ejemplo: agua con sal.
 > - **Mezcla heterogénea:** Una mezcla en la que los componentes son visibles y no están uniformemente distribuidos. Ejemplo: ensalada o arena con piedras.
 
-![Diagrama de materia](./Q01_01.png)
+![Diagrama de materia](../preguntas01/images/Q01_01.png)
 
 --- 
 2. En la tabla periodica se encuentran organizados todos los elemmntos conocidos. Con respecto a esta organización la unica aseveración cierta es que:  
@@ -224,4 +224,4 @@ R: Mezcla homogenia
 > - **Mezcla homogénea:** Una mezcla en la que los componentes están uniformemente distribuidos y no se pueden distinguir a simple vista. Ejemplo: agua con sal.
 > - **Mezcla heterogénea:** Una mezcla en la que los componentes son visibles y no están uniformemente distribuidos. Ejemplo: ensalada o arena con piedras.
 >
-> ![Diagrama de materia](./Q01_01.png)
+> ![Diagrama de materia](../preguntas01/images/Q01_01.png)

@@ -1,5 +1,5 @@
 1. La siguiente tabla describe cuatro atomos diferentes con el numero de protones, electrones y neutrones que contienen cada uno: 
-![Problema 07](./imagen030401.png)
+![Problema 01](./images/Q04_01.png)
 En relacion a ello es cierto que: 
 
 R:  La masa atomica del C es 22  
@@ -55,7 +55,7 @@ R:  La masa atomica del C es 22
 2. De acuerdo con la regla del octeto de Lewis ..
 Cual es la estructura correcta del tiosulfato de sodio?
 
-![Problema 07](./imagen030402.png)
+![Problema 02](./images/Q04_02.png)
 
 R: a 
 
@@ -144,7 +144,7 @@ R: Covalente
 > 3. **Ejemplos Comunes**:
 >    - Ejemplos de compuestos que presentan enlaces covalentes incluyen el agua (H₂O) y el dióxido de carbono (CO₂).
 >
->![Enlace covalente del agua](./Q04_04.webp)
+>![Enlace covalente del agua](./images/Q04_04.webp)
 > 
 > 4. **Tipos de Enlaces Covalentes**:
 >    - Se pueden clasificar en:
@@ -160,7 +160,7 @@ R: Covalente
 
 5. En la siguiente estructura se muestra la representacion de la union entre 2 aminoacidos, Que tipo de enlace se lleva a cabo entre ellos? 
 
-![Problema 05](./imagen030405.png)
+![Problema 05](./images/Q04_05_01.png)
 
 R: peptidico 
 > ## Enlace Peptídico
@@ -171,7 +171,7 @@ R: peptidico
 >    - Se forma mediante una **reacción de condensación** (o deshidratación) entre el grupo amino (-NH₂) de un aminoácido y el grupo carboxilo (-COOH) de otro.
 >    - Durante esta reacción, se libera una molécula de agua (H₂O).
 >
->![](./Q04_05.png)
+>![Estructura](./images/Q04_05_02.png)
 >
 > 2. **Estructura**:
 >    - La estructura resultante del enlace peptídico es un **enlace C-N** (carbono-nitrógeno) que conecta el carbono del grupo carboxilo de un aminoácido con el nitrógeno del grupo amino del siguiente.
@@ -253,7 +253,7 @@ R: Donan pares de electrones
 > 4. **Electronegatividad del Nitrógeno**:
 >    - El nitrógeno tiene una electronegatividad moderada, lo que le permite atraer electrones y al mismo tiempo donar su par de electrones no compartidos a un ácido.
 >
-> ![Clasificaciono de las Aminas](./Q04_07.png)
+> ![Clasificaciono de las Aminas](./images/Q04_07.png)
 >
 > ### Resumen
 > Las aminas actúan como bases de Lewis gracias a su capacidad para donar un par de electrones libres y aceptar protones, lo que les permite interactuar con ácidos de Lewis y formar compuestos más complejos.
@@ -264,7 +264,7 @@ R: Donan pares de electrones
 
 R:  Acida 
 
-> ![Indicador de PH](./Q04_08.jpg)
+> ![Indicador de PH](./images/Q04_08.jpg)
 ---
 9. Cual es la base mas fuerte: NH3,NAHCO3, H2O, KOH
 
@@ -329,4 +329,4 @@ R: KOH
 R:  Una base  
 
 
-> ![Indicador de PH](./Q04_10.jpg)
+> ![Indicador de PH](./images/Q04_10.jpg)
