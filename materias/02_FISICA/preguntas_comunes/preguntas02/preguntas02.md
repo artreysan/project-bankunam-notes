@@ -1,173 +1,180 @@
-1. Si un peatón recorre 40 m en 80 s, repentinamente se detiene durante 10 s y posteriormente avanza 20 m en 10 s. ¿Cuál es la rapidez media? 
+  1. Si un peatón recorre 40 m en 80 s, repentinamente se detiene durante 10 s y posteriormente avanza 20 m en 10 s. ¿Cuál es la rapidez media?
 
-Explicación:
+***R: $0.6 \, \text{m/s}$***
 
-La principal fórmula para calcular la rapidez es la siguiente:
-
-V = d/t
-
-Donde:
-
-    d = distancia
-    t = tiempo
-    V = rapidez
-
-Entonces, aplicamos esta ecuación para calcular la rapidez media, tal que:
-
-V = (40 m + 0 m + 20 m)/(10 s + 10 s + 80 s)
-
-V = (60 m)/(100 s)
-
-V = 0.6 m/s
-
-Por tanto, la rapidez media del peatón es de 0.6 m/s.
-
-R: 0.6 m/s 
-
---- 
-2. ¿Cuál de los siguientes materiales sirve para medir la antigüedad de los fósiles? 
-
-R: Carbono-14 
-
----
-3. ¿Cuál es el peso en Newtons de un cuerpo con una masa de 10 kg? (G: 9.8 m/s²)  
-Para resolver este ejercicio, la fórmula y el procedimiento que debemos aplicar es:
-
-P = m * g
-
-Donde:
-
-    P = peso
-    m = masa
-    g = gravedad
-
-Datos del problema:
-
-    g = 9.8 m/s²
-    m = 10 kg
-    P = ?
-    N = kg * m/s²
-
-Aplicamos la fórmula de peso, sustituimos valores y calculamos el peso:
-
-P = m * g
-
-P = 10 kg * 9.8 m/s²
-
-P = 98 N
-
-R: 98 N
+> La fórmula principal para calcular la rapidez es:
+>
+> $V = \frac{d}{t}$
+>
+> Donde:
+>
+> - $d$: Distancia total recorrida (m)
+> - $t$: Tiempo total transcurrido (s)
+> - $V$: Rapidez media (m/s)
+>
+> Sumamos las distancias:
+>
+> $d = 40 \, \text{m} + 0 \, \text{m} + 20 \, \text{m} = 60 \, \text{m}$
+>
+> Sumamos los tiempos:
+>
+> $t = 80 \, \text{s} + 10 \, \text{s} + 10 \, \text{s} = 100 \, \text{s}$
+>
+> Sustituyendo en la fórmula:
+>
+> $V = \frac{60 \, \text{m}}{100 \, \text{s}}$
+>
+> $V = 0.6 \, \text{m/s}$
+>
+> Por lo tanto, la rapidez media del peatón es de $0.6 \, \text{m/s}$.
 
 ---
 
-4. Un gato hidráulico se utiliza para cambiar la llanta de un coche. Si se le aplica una fuerza de 80 Newtons en un área de 5 cm² sobre el émbolo del pistón y el auto se recarga en un área de 25 cm², ¿qué fuerza se genera?
+2. ¿Cuál de los siguientes materiales sirve para medir la antigüedad de los fósiles?
 
-**Teoría del funcionamiento de la prensa hidráulica**  
+***R: Carbono-14***
 
-La prensa hidráulica funciona a partir del **principio de Pascal**, de esta manera, la presión en ambos émbolos es la misma.
-
-**Resolución del problema**  
-
-Considerando que un gato hidráulico es una prensa hidráulica, podemos decir que la presión en sus émbolos es la misma, tal que:
-
-P₁ = P₂
-
-Definimos estas presiones y tenemos:
-
-F₁/A₁ = F₂/A₂
-
-Procedemos a buscar la fuerza que se genera en el émbolo mayor:
-
-F₁/A₁ = F₂/A₂
-
-(80 N)/(5 cm²) = F₂/(25 cm²)
-
-F₂ = (25 cm²) · (80 N) / (5 cm²)
-
-F₂ = 400 N
-
-R: 400 N        
+> El carbono-14 ($^{14}C$) es un isótopo radiactivo utilizado en la datación de restos orgánicos, ya que permite estimar la antigüedad de fósiles o materiales que contuvieron vida.
 
 ---
 
-5. En un cuerpo con MRU, ¿cómo aumentas su velocidad?  
+3. ¿Cuál es el peso en Newtons de un cuerpo con una masa de 10 kg? (g = $9.8 \, \text{m/s}^2$)
 
-R: Disminuyendo su cantidad de inercia  
+***R: $98 \, \text{N}$***
 
----
-
-6. Una persona que pesa 500 N salta sobre un resorte de 25 cm y se comprime 10 cm. Si una persona de 900 N salta sobre el mismo resorte, sabiendo que su coeficiente es de 50 N/cm, ¿cuánto se comprime el resorte?  
-
-Explicación:
-
-De la fórmula de la **Ley de Hooke**:
-
-F = K * x
-
-Donde:
-
-    F = Fuerza (900 N)
-    K = Constante o coeficiente del resorte (50 N/cm)
-    x = Deformación (?)
-
-Queremos saber el valor de la deformación (x), por lo que despejamos x en la fórmula:
-
-x = F/K
-
-Sustituimos los valores:
-
-x = 900 N / 50 N/cm
-
-x = 18 cm
-
-R: 18 cm 
+> La fórmula para calcular el peso es:
+>
+> $P = m \cdot g$
+>
+> Donde:
+>
+> - $P$: Peso (N)
+> - $m$: Masa (kg)
+> - $g$: Gravedad ($\text{m/s}^2$)
+>
+> Datos:
+>
+> - $m = 10 \, \text{kg}$
+> - $g = 9.8 \, \text{m/s}^2$
+>
+> Sustituyendo:
+>
+> $P = 10 \, \text{kg} \times 9.8 \, \text{m/s}^2$
+>
+> $P = 98 \, \text{N}$
+>
+> Por lo tanto, el peso del cuerpo es de $98 \, \text{N}$.
 
 ---
 
-7. Relaciona los diagramas considerando la trayectoria de un haz de luz que corresponde a los fenómenos de reflexión y refracción respectivamente.  
+4. Un gato hidráulico se utiliza para cambiar la llanta de un coche. Si se le aplica una fuerza de $80 \, \text{N}$ en un área de $5 \, \text{cm}^2$ sobre el émbolo del pistón y el auto se recarga en un área de $25 \, \text{cm}^2$, ¿qué fuerza se genera?
 
-![Problema 07](./images/F02_07.png)  
+***R: $400 \, \text{N}$***
 
-R: I-b y II-a  
+> Según el principio de Pascal:
+>
+> Las presiones en ambos émbolos son iguales:
+>
+> $P_1 = P_2$
+>
+> Por lo tanto:
+>
+> $\frac{F_1}{A_1} = \frac{F_2}{A_2}$
+>
+> Datos:
+>
+> - $F_1 = 80 \, \text{N}$
+> - $A_1 = 5 \, \text{cm}^2$
+> - $A_2 = 25 \, \text{cm}^2$
+>
+> Sustituyendo:
+>
+> $F_2 = \frac{A_2 \times F_1}{A_1}$
+>
+> $F_2 = \frac{25 \, \text{cm}^2 \times 80 \, \text{N}}{5 \, \text{cm}^2}$
+>
+> $F_2 = 400 \, \text{N}$
+>
+> Por lo tanto, la fuerza generada es de $400 \, \text{N}$.
 
 ---
 
-8. Desde cierta altura se deja caer una piedra en un estanque. ¿Cómo son las ondas que se forman en el agua?  
+5. En un cuerpo con Movimiento Rectilíneo Uniforme (MRU), ¿cómo aumentas su velocidad?
 
-R: Las ondas son transversales, pues se desplazan de forma perpendicular con respecto a la dirección del movimiento.  
+***R: Disminuyendo su cantidad de inercia***
 
----
-
-9. Si la aceleración de la gravedad en la CDMX es de aproximadamente 9.78 m/s², se puede decir que:  
-
-R: La velocidad de los objetos aumenta 9.78 m/s cada segundo de caída.  
+> La inercia es la resistencia de un cuerpo a cambiar su estado de movimiento. Si se disminuye la inercia (por ejemplo, reduciendo la masa), es más fácil aumentar la velocidad del cuerpo en MRU.
 
 ---
 
-10. La potencia que produce un horno de microondas es de 1200 W. Si la diferencia de potencial es de 120 V, ¿cuánta corriente circula?  
+6. Una persona que pesa $500 \, \text{N}$ salta sobre un resorte de $25 \, \text{cm}$ y se comprime $10 \, \text{cm}$. Si una persona de $900 \, \text{N}$ salta sobre el mismo resorte, sabiendo que su coeficiente es de $50 \, \text{N/cm}$, ¿cuánto se comprime el resorte?
 
-Para calcular la corriente $I$, puedes usar la **ley de Ohm**, que establece la relación entre la potencia $P$, la diferencia de potencial $V$ y la corriente $I$ en un circuito:
+***R: $18 \, \text{cm}$***
 
-$ P = IV $
+> Aplicamos la **Ley de Hooke**:
+>
+> $F = k \cdot x$
+>
+> Donde:
+>
+> - $F$: Fuerza aplicada ($\text{N}$)
+> - $k$: Constante del resorte ($\text{N/cm}$)
+> - $x$: Deformación o compresión ($\text{cm}$)
+>
+> Queremos despejar $x$:
+>
+> $x = \frac{F}{k}$
+>
+> Sustituimos:
+>
+> $x = \frac{900 \, \text{N}}{50 \, \text{N/cm}}$
+>
+> $x = 18 \, \text{cm}$
+>
+> Por lo tanto, el resorte se comprime $18 \, \text{cm}$.
 
-Donde:
+---
 
-- $P$ es la potencia en vatios (W),
-- $I$ es la corriente en amperios (A),
-- $V$ es la diferencia de potencial en voltios (V).
+7. Relaciona los diagramas considerando la trayectoria de un haz de luz que corresponde a los fenómenos de reflexión y refracción respectivamente.
 
-En este caso, conoces la potencia ($P = 1200 \, \text{W}$) y la diferencia de potencial ($V = 120 \, \text{V}$), y deseas encontrar la corriente ($I$).
+![Problema 07](./images/F02_07.png)
 
-Reacomodamos la fórmula para resolver $I$:
+***R: I-b y II-a***
 
-$ I = \frac{P}{V} $
+> La reflexión ocurre cuando la luz rebota sobre una superficie, mientras que la refracción es cuando la luz cambia de dirección al pasar de un medio a otro.
 
-Sustituyendo los valores conocidos:
+---
 
-$ I = \frac{1200 \, \text{W}}{120 \, \text{V}}$
+8. Desde cierta altura se deja caer una piedra en un estanque. ¿Cómo son las ondas que se forman en el agua?
 
-$ I = 10 \, \text{A} $
+***R: Las ondas son transversales, pues se desplazan de forma perpendicular con respecto a la dirección del movimiento.***
 
-Por lo tanto, la corriente que circula en el horno de microondas es de $10 \, \text{A}$.  
+> Las partículas del agua oscilan de forma perpendicular al avance de la onda.
 
-R: 10 A  
+---
+
+9. Si la aceleración de la gravedad en la CDMX es de aproximadamente $9.78 \, \text{m/s}^2$, se puede decir que:
+
+***R: La velocidad de los objetos aumenta $9.78 \, \text{m/s}$ cada segundo de caída.***
+
+> Es decir, por cada segundo de caída libre, la velocidad del objeto se incrementa en $9.78 \, \text{m/s}$ debido a la gravedad.
+
+---
+
+10. La potencia que produce un horno de microondas es de $1200 \, \text{W}$. Si la diferencia de potencial es de $120 \, \text{V}$, ¿cuánta corriente circula?
+
+> Usamos la fórmula de potencia eléctrica:
+>
+> $P = I \cdot V$
+>
+> Despejamos la corriente:
+>
+> $I = \frac{P}{V}$
+>
+> Sustituyendo valores:
+>
+> $I = \frac{1200 \, \text{W}}{120 \, \text{V}}$
+>
+> $I = 10 \, \text{A}$
+
+***R: 10 A***

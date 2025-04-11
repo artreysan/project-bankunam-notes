@@ -4,7 +4,7 @@
 
 > La aceleración ($a$) de un objeto se puede calcular utilizando la segunda ley de Newton, que establece que la fuerza neta ($F$) aplicada a un objeto es igual al producto de su masa ($m$) y su aceleración ($a$): 
 >
-> $F = m a$
+> $F = ma$
 >
 > En este caso, la masa ($m$) del objeto es de 90 kg y la fuerza neta ($F$) aplicada es de 360 N. Para encontrar la aceleración, usamos la fórmula:
 >
@@ -12,7 +12,7 @@
 >
 > Sustituyendo los valores:
 >
-> $a = \frac{360 \text{ N}}{90 \text{ kg}}$
+> $a = \frac{360 \, \text{N}}{90 \, \text{kg}}$
 >
 > Realizando la operación:
 >
@@ -20,7 +20,7 @@
 >
 > Por lo tanto, la aceleración del objeto es de $4 \, \text{m/s}^2$ cuando se le aplica una fuerza de 360 N.
 
---- 
+---
 
 2. Si a un bloque de 20 kg se le aplican dos fuerzas, una de 30 N y otra de 20 N en la misma dirección y sentidos opuestos (sin fricción), ¿cuál es su aceleración?
 
@@ -34,15 +34,15 @@
 >
 > Donde $F_1$ es la fuerza de 30 N y $F_2$ la de 20 N.
 >
-> $F_{\text{neta}} = 30 N - 20 N = 10 N$
+> $F_{\text{neta}} = 30 \, \text{N} - 20 \, \text{N} = 10 \, \text{N}$
 >
 > Aplicamos la segunda ley de Newton:
 >
-> $F_{\text{neta}} = m a$
+> $F_{\text{neta}} = ma$
 >
 > Despejamos $a$:
 >
-> $a = \frac{10 \text{ N}}{20 \text{ kg}}$
+> $a = \frac{10 \, \text{N}}{20 \, \text{kg}}$
 >
 > $a = 0.5 \, \text{m/s}^2$
 >
@@ -50,20 +50,20 @@
 
 ---
 
-3. Dos niños de la misma masa se balancean en un columpio y en determinado momento están a la misma altura pero en extremos opuestos. ¿Cuál de las siguientes afirmaciones acerca de sus energías potenciales con respecto al piso es verdadera?
+3. Dos niños de la misma masa se balancean en un columpio y, en determinado momento, están a la misma altura pero en extremos opuestos. ¿Cuál de las siguientes afirmaciones acerca de sus energías potenciales con respecto al piso es verdadera?
 
 ![Problema 03](./images/F01_03.png)
 
-Dado que $E_p = m g h$ y ambos niños (A y B) tienen la misma masa, están a la misma altura y experimentan la misma gravedad, se cumple que:
+Dado que $E_p = mgh$ y ambos niños (A y B) tienen la misma masa, están a la misma altura y experimentan la misma gravedad, se cumple que:
 
-***R: $E_{pA} = E_{pB} \neq 0 \text{ J}$***
+***R: $E_{pA} = E_{pB} \neq 0 \, \text{J}$***
 
 > **Fórmulas de Energía Cinética y Energía Potencial:**
 >
 > - **Energía Cinética ($E_c$)**:
->   $E_c = \frac{1}{2} m v^2$
+>   $E_c = \frac{1}{2} mv^2$
 > - **Energía Potencial Gravitatoria ($E_p$)**:
->   $E_p = m g h$
+>   $E_p = mgh$
 >
 > Donde:
 > - $m$: Masa del objeto (kg)
@@ -79,13 +79,13 @@ Dado que $E_p = m g h$ y ambos niños (A y B) tienen la misma masa, están a la 
 
 > - Cálculo de la masa:
 >
->   $m = \frac{P}{g} = \frac{60 \text{ N}}{10 \text{ m/s}^2} = 6 \text{ kg}$
+>   $m = \frac{P}{g} = \frac{60 \, \text{N}}{10 \, \text{m/s}^2} = 6 \, \text{kg}$
 >
 > - Aceleración horizontal:
 >
->   $F = m a$
+>   $F = ma$
 >
->   $30 \text{ N} = 6 \text{ kg} \cdot a$
+>   $30 \, \text{N} = 6 \, \text{kg} \cdot a$
 >
 >   $a = \frac{30}{6} = 5 \, \text{m/s}^2$
 >
@@ -105,7 +105,7 @@ Dado que $E_p = m g h$ y ambos niños (A y B) tienen la misma masa, están a la 
 >
 > $T_e = \frac{200 \times 60 + 100 \times 20}{200 + 100}$
 >
-> $T_e = 40 \ ^\circ C$
+> $T_e = 40 °C$
 
 ---
 
@@ -113,17 +113,19 @@ Dado que $E_p = m g h$ y ambos niños (A y B) tienen la misma masa, están a la 
 
 ***R: Diferentes temperaturas***
 
-> El calor se transfiere de un cuerpo con mayor temperatura a otro con menor temperatura hasta alcanzar el equilibrio térmico.
+> El calor se transfiere de un cuerpo con mayor temperatura a otro con menor temperatura, hasta alcanzar el equilibrio térmico.
 
 ---
 
-7. Un corcho de densidad $0.2 \text{ kg/m}^3$ se sumerge en alcohol etílico de densidad $0.8 \text{ kg/m}^3$. ¿Qué fracción del corcho queda sumergida?
+7. Un corcho de densidad $0.2 \, \text{kg/m}^3$ se sumerge en alcohol etílico de densidad $0.8 \, \text{kg/m}^3$. ¿Qué fracción del corcho queda sumergida?
 
 ***R: $\frac{1}{4}$***
 
 > Usamos la ecuación:
 >
 > $\frac{V_{\text{sub}}}{V_{\text{total}}} = \frac{\rho_{\text{obj}}}{\rho_{\text{fluido}}}$
+>
+> Sustituyendo valores:
 >
 > $\frac{0.2}{0.8} = \frac{1}{4}$
 
@@ -133,11 +135,11 @@ Dado que $E_p = m g h$ y ambos niños (A y B) tienen la misma masa, están a la 
 
 ***R: Fisión, fusión y radiactividad***
 
-> **Fisión:** División de un núcleo pesado en núcleos más pequeños liberando energía.
+> - **Fisión:** División de un núcleo pesado en núcleos más pequeños, liberando energía.
 >
-> **Fusión:** Unión de núcleos ligeros para formar uno más pesado liberando gran cantidad de energía.
+> - **Fusión:** Unión de núcleos ligeros para formar uno más pesado, liberando gran cantidad de energía.
 >
-> **Radiactividad:** Desintegración espontánea de núcleos inestables emitiendo radiación.
+> - **Radiactividad:** Desintegración espontánea de núcleos inestables, emitiendo radiación.
 
 ---
 
@@ -145,9 +147,9 @@ Dado que $E_p = m g h$ y ambos niños (A y B) tienen la misma masa, están a la 
 
 ***R: Capilaridad y tensión superficial***
 
-> **Capilaridad:** Fenómeno que permite que el agua suba en tubos delgados o materiales porosos.
+> - **Capilaridad:** Fenómeno que permite que el agua suba en tubos delgados o materiales porosos.
 >
-> **Tensión superficial:** Propiedad que permite que algunos insectos caminen sobre el agua sin hundirse.
+> - **Tensión superficial:** Propiedad que permite que algunos insectos caminen sobre el agua sin hundirse.
 
 ---
 
@@ -159,4 +161,4 @@ Dado que $E_p = m g h$ y ambos niños (A y B) tienen la misma masa, están a la 
 >
 > $\theta_{\text{incidencia}} = \theta_{\text{reflexión}}$
 >
-> Entonces, si $\theta_{\text{incidencia}} = 45°$, el ángulo reflejado también es $45°$. 
+> Entonces, si $\theta_{\text{incidencia}} = 45°$, el ángulo reflejado también es $45°$.
