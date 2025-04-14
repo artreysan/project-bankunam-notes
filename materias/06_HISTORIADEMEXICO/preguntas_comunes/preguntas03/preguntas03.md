@@ -7,7 +7,7 @@ R: Declara la guerra a las pontencias del eje, politica de unidad nacional y fam
 > - **Política de unidad nacional y familiar**: Su gobierno promovió la política de unidad nacional, enfatizando valores familiares y la moral. Sin embargo, este aspecto podría ser más matizado en términos de su implementación.
 > - **Asesinato de León Trotsky**: No se puede atribuir a su gobierno la responsabilidad directa del asesinato de Trotsky, que ocurrió en 1940 en México, ya que fue llevado a cabo por un agente estalinista. Sin embargo, la presencia de Trotsky en México y las tensiones políticas de la época son contextos relevantes.
 >
-> ![Manuel Ávila Camacho](./HM03_01.jpg)
+> ![Manuel Ávila Camacho](./images/HM03_01.jpg)
 >
 > **Manuel Ávila Camacho (1897-1970)** fue un político y militar mexicano que se desempeñó como presidente de México desde 1940 hasta 1946.
 > 
@@ -29,7 +29,7 @@ R: Inauguracion de C.U. y la industrializacion
 > - **Inauguración de la Ciudad Universitaria (C.U.)**: Se inauguró el 20 de marzo de 1952, sirviendo como sede principal de la Universidad Nacional Autónoma de México (UNAM) y simbolizando un impulso a la educación superior en el país.
 > - **Industrialización**: Su gobierno impulsó la industrialización de México, promoviendo la modernización de la economía y el desarrollo de la infraestructura industrial. Se implementaron políticas para fomentar la inversión privada y extranjera, lo que contribuyó al crecimiento económico del país en ese período.
 >
->![Miguel Alemán Valdes](./HM03_02.png)
+>![Miguel Alemán Valdes](./images/HM03_02.png)
 >
 > **Miguel Alemán Valdés (1909-1983)** fue un político y abogado mexicano que se desempeñó como presidente de México desde 1946 hasta 1952.
 > 
@@ -52,7 +52,7 @@ R: Devolucion de tierras a sus antiguos dueños
 > 
 > El **Plan de Ayala** fue un documento fundamental en la historia de la Revolución Mexicana, promulgado por Emiliano Zapata el 28 de noviembre de 1911. Este plan surge en un contexto de insatisfacción con las promesas no cumplidas del gobierno de Francisco I. Madero, quien había prometido reformas agrarias significativas pero no logró implementarlas de manera efectiva.
 > 
-> ![Plan de Ayala](./HM03_03.jpg)
+> ![Plan de Ayala](./images/HM03_03.jpg)
 >
 > ### Objetivos del Plan de Ayala:
 > - **Devolución de tierras a sus antiguos dueños**: Uno de los principales objetivos del Plan de Ayala era la devolución de tierras a los campesinos y pueblos indígenas que habían sido despojados de sus terrenos durante el régimen porfirista y la Revolución. Zapata y sus seguidores consideraban que la tierra debía ser para quienes la trabajaban, y por ello, buscaban regresar las tierras a sus legítimos dueños.
@@ -126,7 +126,7 @@ R: El estado interviene en la economia
 > - **Industrialización**: Se promovió la industrialización a través de la inversión pública y el apoyo a las pequeñas y medianas empresas.
 > - **Desarrollo Regional**: Se buscaron mecanismos para equilibrar el desarrollo económico entre las diferentes regiones del país, prestando atención a las zonas más desfavorecidas.
 >
->![Luis Echeverria](./HM03_07.jpg)
+>![Luis Echeverria](./images/HM03_07.jpg)
 >
 > **Luis Echeverría**:
 > 
@@ -174,14 +174,14 @@ R: La confederacion regional obrera mexicana
 > - **Álvaro Obregón** fue presidente de México de 1920 a 1924 y nuevamente de 1924 a 1928. Durante su gobierno, recibió el apoyo de diversos sectores sociales, incluyendo el movimiento obrero.
 > - **Confederación Regional Obrera Mexicana (CROM)**: Esta organización se fundó en 1918 y buscaba representar los intereses de los trabajadores. Bajo el liderazgo de **Luis N. Morones**, la CROM se alineó con el gobierno de Obregón, lo que le permitió ganar poder y legitimidad.
 >
-> ![](./HM_02_04.jpg)
+> ![.](../preguntas02/images/HM02_04.jpg)
 > 
 > - **Relación entre la CROM y Obregón**: Aunque la CROM apoyó a Obregón, su relación fue compleja y a veces tensa, ya que los líderes obreros buscaban mejores condiciones laborales y derechos para los trabajadores, lo que no siempre era compatible con las políticas del gobierno.
 > 
 > ### Contexto:
 > - Obregón impulsó diversas reformas sociales y laborales, pero también enfrentó críticas por su autoritarismo y la represión de movimientos sociales.
 >
-> ![Alvaro Obregon](./HM03_09.jpg)
+> ![Alvaro Obregon](./images/HM03_09.jpg)
 >
 > **Álvaro Obregón**:
 > 
@@ -209,7 +209,7 @@ R: La confederacion regional obrera mexicana
 
 R: Guadalupe Victoria   
 
-> ![Guadalupe Victoria](./HM03_10.jpg)
+> ![Guadalupe Victoria](./images/HM03_10.jpg)
 >
 > **Guadalupe Victoria**:
 > 

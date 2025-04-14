@@ -2,7 +2,7 @@
 
 R: La division de poderes y el sentir de la sociedad
 
-> ![](./HM04_01.jpeg)
+> ![.](./images/HM04_01.jpeg)
 >
 > - **"Sentimientos de la Nación"**: Es un documento redactado por **José María Morelos y Pavón** en 1813, durante la Guerra de Independencia de México.
 > - **Finalidad**:
@@ -16,7 +16,7 @@ R: La division de poderes y el sentir de la sociedad
 
 R: El Despertar Americano
 
-> ![El Despertar Mexicano](./HM04_02.jpg)
+> ![El Despertar Mexicano](./images/HM04_02.jpg)
 >
 > **El Despertar Americano**: Era un período de despertar cultural, social y político en América Latina y, en particular, en México, durante las primeras décadas del siglo XIX, después de las guerras de independencia.
 > 
@@ -139,7 +139,7 @@ R: De tipo liberal y fue el segundo imperio
 
 R: PRI
 
->![Evolucion del PRI](./HM04_09.jpg)
+>![Evolucion del PRI](./images/HM04_09.jpg)
 >
 > **Nombres del Partido Revolucionario Institucional (PRI)**:
 > 
@@ -162,7 +162,7 @@ R: PRI
 R: Por la creacion del partido de revolucion mexicana (PRM) vinculado con la politica, los militares y sector obrero 
 
 
-![Lazaro Cardenas](./HM04_10.jpg)
+![Lazaro Cardenas](./images/HM04_10.jpg)
 
 > **Lázaro Cárdenas**:
 > 

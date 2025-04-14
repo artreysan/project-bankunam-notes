@@ -20,7 +20,7 @@ R: La constitucion de 1857
 
 > El proyecto de los liberales quedó plasmado en la **Constitución de 1857** y en las **Leyes de Reforma**. Estas legislaciones reflejaron los principios de la **Revolución de Ayutla** y establecieron un marco de reformas para modernizar el país.
 > 
-> ![Constitucion 1857](./HM_02_02.jpg)
+> ![Constitucion 1857](./images/HM02_02.jpg)
 >
 > - **Constitución de 1857**: Promovió la igualdad ante la ley, los derechos individuales y la separación de poderes.
 > - **Leyes de Reforma**: Incluyeron disposiciones para limitar el poder de la Iglesia, promover la propiedad privada y secularizar los bienes eclesiásticos.
@@ -61,7 +61,7 @@ R: Para manipular a los obreros
 >
 > La **CROM** es la **Confederación Regional Obrera Mexicana**, una organización sindical fundada en **1918** durante el gobierno de Venustiano Carranza. Su objetivo principal era defender los derechos de los trabajadores y promover mejoras laborales. 
 >
-> ![CROM](./HM_02_04.jpg)
+> ![CROM](./images/HM02_04.jpg)
 > - La CROM fue una de las primeras organizaciones sindicales en México que tuvo una influencia significativa en la política laboral y social del país.
 > - Durante las décadas de 1920 y 1930, tuvo un fuerte vínculo con el gobierno, lo que le permitió consolidarse como un actor clave en la política nacional.
 > - A lo largo de su historia, la CROM luchó por mejoras en las condiciones laborales, como el establecimiento de la jornada de 8 horas y la regulación del trabajo infantil.
@@ -110,7 +110,7 @@ R: Criollos sufrian una gran relegacion y subestimacion
 R: España - barradas
 
 > Después de la independencia de México en **1821**, España no reconoció la independencia de su excolonia y buscó recuperar el control sobre el territorio. En **1829**, se llevó a cabo un intento de reconquista conocido como la **"Invasión de Barradas"**, liderada por el general **Isidro Barradas**.
-> ![Isidro Barradas](./HM_02_07.jpg)
+> ![Isidro Barradas](./images/HM02_07.jpg)
 >
 > - **Contexto**: La joven nación mexicana enfrentaba dificultades políticas y económicas, lo que llevó a España a creer que podía restaurar su dominio. A esto se sumaba la presión de los grupos realistas que todavía simpatizaban con la corona española.
 >
@@ -159,7 +159,7 @@ R: Maximato
 >
 > - **Contexto**: El Maximato comenzó tras el asesinato de **Álvaro Obregón** en 1928, cuando Calles decidió no asumir la presidencia nuevamente, pero mantuvo su influencia sobre el gobierno.
 > - **Presidentes títeres**: Durante este tiempo, los presidentes en funciones (Emilio Portes Gil, Pascual Ortiz Rubio y Abelardo L. Rodríguez) gobernaron bajo la influencia directa de Calles, quien tomaba las decisiones más importantes.
-> ![Presidentes del Maximato](./HM_02_10.jpg)
+> ![Presidentes del Maximato](./images/HM02_10.jpg)
 > - **Fin del Maximato**: El Maximato terminó en 1934 con la llegada al poder de **Lázaro Cárdenas**, quien, al consolidarse en el poder, rompió con Calles y lo exilió en 1936.
 >
 > El Maximato fue una etapa de estabilidad relativa, pero también de control autoritario y falta de autonomía presidencial.

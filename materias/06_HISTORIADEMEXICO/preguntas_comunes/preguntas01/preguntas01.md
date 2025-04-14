@@ -10,7 +10,7 @@
 >   - El Imperio fue corto, debido a la insatisfacción con la forma de gobierno y la creciente presión para adoptar una república.
 > - **Fin**: En 1823, Iturbide abdicó (renunciar voluntariamente a un cargo o puesto de poder) y se proclamó la **República Federal**.
 
-![Agustín de Iturbide](./HM01_01.jpg)
+![Agustín de Iturbide](./images/HM01_01.jpg)
 
 ---
 2. Porfirio Diaz llega la poder mediante el plan de Tuxtepec en el cual proponia:  
@@ -22,13 +22,13 @@
 > - **Desconocimiento del gobierno de Sebastián Lerdo de Tejada**, a quien acusaba de intentar perpetuarse en el poder a través de la reelección.
 > - **No reelección presidencial**, estableciendo que ningún presidente debería gobernar de manera consecutiva.
 >
-> ![Sebastian Lerdo de Tejada](./HM01_02_01.png)
+> ![Sebastian Lerdo de Tejada](./images/HM01_02_01.png)
 >
 > - **Reforma política**: Díaz buscaba implementar un gobierno más liberal, acusando al régimen de Lerdo de ser centralista y autoritario.
 >
 > El Plan de Tuxtepec tuvo éxito tras la batalla de **Tecoac**, permitiendo a Díaz asumir la presidencia, marcando el inicio de su largo régimen.
 >
-> ![Porfirio Diaz](./HM01_02_02.png)
+> ![Porfirio Diaz](./images/HM01_02_02.png)
 ---
 3. Le etapa en la que la economia mexica crecio un una tasa del 7% se le conoce con el nombre de ________
 
@@ -46,15 +46,15 @@
 > ### Líderes:
 > - **Adolfo Ruiz Cortines** (1952-1958): Inició las políticas de estabilización.
 >
-> ![Adolfo Ruiz Cortines](./HM01_03_01.png)
+> ![Adolfo Ruiz Cortines](./images/HM01_03_01.png)
 >
 > - **Adolfo López Mateos** (1958-1964): Consolidó el crecimiento industrial.
 >
-> ![Adolfo López Mateos](./HM01_03_02.png)
+> ![Adolfo López Mateos](./images/HM01_03_02.png)
 >
 > - **Gustavo Díaz Ordaz** (1964-1970): Culminó el periodo de estabilidad.
 >
-> ![Gustavo Díaz Ordaz](./HM01_03_03.png)
+> ![Gustavo Díaz Ordaz](./images/HM01_03_03.png)
 >
 > ### Fin del Desarrollo Estabilizador:
 > El modelo enfrentó problemas hacia finales de los años 60, como la creciente deuda externa y desigualdad, lo que llevó a una crisis económica a principios de los 70.
@@ -66,7 +66,7 @@
 
 > E: El personaje que dio seguimiento al proyecto insurgente después de la muerte de **Miguel Hidalgo** fue **José María Morelos y Pavón**.
 >
-> ![Jose Maria Morelos y Pavon](./HM01_04.png)
+> ![Jose Maria Morelos y Pavon](./images/HM01_04.png)
 >
 > ### Contribuciones:
 > - **Morelos** asumió el liderazgo del movimiento independentista tras la captura y ejecución de Hidalgo en 1811.
@@ -82,7 +82,7 @@
 
 > E: Durante el gobierno de **Lázaro Cárdenas** (1934-1940) en México, se llevaron a cabo varios acontecimientos significativos que marcaron la historia del país. A continuación se destacan algunos de los más importantes:
 >
-> ![Lazaro Cardenas](./HM01_05.jpg)
+> ![Lazaro Cardenas](./images/HM01_05.jpg)
 >
 > ### Acontecimientos Principales:
 > - **Nacionalización del Petróleo**: En 1938, Cárdenas expropió las compañías petroleras extranjeras y nacionalizó la industria petrolera, estableciendo **Pemex** (Petróleos Mexicanos). Este acto fue fundamental para el control de los recursos naturales del país.
@@ -102,7 +102,7 @@
 
 > México recuperó el **Chamizal** el **29 de diciembre de 1966** mediante la firma de un tratado con los Estados Unidos. Este acuerdo resolvió un conflicto territorial que se había prolongado durante más de un siglo debido a cambios en el curso del río Bravo (Río Grande) que habían modificado la frontera entre ambos países.
 >
-> ![Adolfo López Mateos](./HM01_03_02.png)
+> ![Adolfo López Mateos](./images/HM01_03_02.png)
 >
 > ### Contexto:
 > - **Conflicto**: El conflicto se originó en el siglo XIX y se agravó por el desvío del curso del río, lo que llevó a disputas sobre la posesión de tierras.
@@ -120,7 +120,7 @@
 
 **R: Intendencias**
 
-> ![Mapa del Territorio de la Nueva España fines del siglo XVIII](./HM_01_07.jpg)
+> ![Mapa del Territorio de la Nueva España fines del siglo XVIII](./images/HM01_07.jpg)
 >
 > E: Las **Reformas Borbónicas** en la Nueva España, implementadas durante el siglo XVIII, llevaron a una reorganización administrativa y política que buscaba aumentar el control de la Corona sobre sus colonias y mejorar la eficiencia del gobierno. La **forma de división política** propuesta por estas reformas incluyó:
 >
@@ -141,7 +141,7 @@
 
 > E: La nueva España al reinado de los borbones sufrió un cambio respecto a cómo el territorio novohispano era distribuido bajo el dominio de los Habsburgo, hacia 1786 Nueva España se divido en 12 intendencias y cuatro gobiernos que dependían del virrey, los cargos para regir y gobernar la nueva división territorial fueron ocupados en su mayoría por españoles peninsulares, dicha división se pensó para restar poder virreinal sobre los territorios.
 
-> ![Mapa del Territorio de la Nueva España fines del siglo XVIII](./HM_01_07.jpg)
+> ![Mapa del Territorio de la Nueva España fines del siglo XVIII](./images/HM_01_07.jpg)
 
 ---
 9. Las reformas borbonicas en la nueva españa hicieron posible el desarrollo y la comercializacion entre España y sus colonias la cual permitio.
