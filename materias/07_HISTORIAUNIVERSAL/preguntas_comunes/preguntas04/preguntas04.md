@@ -154,6 +154,6 @@ R: Finlandia
 
 > La afirmación es **cierta**, ya que Finlandia NO se separó de Yugoslavia, ya que nunca formó parte de ella.
 
-![Yogoslavia [orange], Finalandia [green]](./HU03_10.png)
+![Yogoslavia [orange], Finalandia [green]](./images/HU04_10.png)
 
 

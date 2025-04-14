@@ -130,30 +130,30 @@ R:
 >   - **Postulado**: Reducción del ejército alemán y eliminación de la fuerza aérea alemana.
 >   - **Explicación**: Este tratado, firmado tras la Primera Guerra Mundial, impuso duras sanciones a Alemania. Su ejército se limitó a 100,000 soldados, se eliminó la fuerza aérea y se redujo drásticamente su capacidad militar. Además, Alemania tuvo que aceptar la responsabilidad por la guerra y pagar reparaciones.
 >
-> ![Tratado de Versalles](./HU03_05_01.jpg)
+> ![Tratado de Versalles](./images/HU03_05_01.jpg)
 > 
 > - **Tratado de Saint-Germain (1919)**:
 >   - **Postulado**: Prohibición de cualquier alianza con Alemania.
 >   - **Explicación**: Este tratado fue firmado con Austria tras la disolución del Imperio Austrohúngaro. Una de sus principales cláusulas era la prohibición de cualquier unión política entre Austria y Alemania, con el fin de evitar un resurgimiento del poder germánico en Europa Central.
-> ![Tratado de Saint-Germain](./HU03_05_02.png)
+> ![Tratado de Saint-Germain](./images/HU03_05_02.png)
 > 
 > - **Tratado de Neuilly (1919)**:
 >   - **Postulado**: Desarme y reducción territorial de Bulgaria.
 >   - **Explicación**: Este tratado afectó a Bulgaria, que perdió territorio en favor de Grecia, Rumania y Yugoslavia. Además, se le impuso un límite al tamaño de su ejército y tuvo que pagar reparaciones de guerra.
 >
-> ![Tratado de Neuilly](./HU03_05_04.png)
+> ![Tratado de Neuilly](./images/HU03_05_04.png)
 > 
 > - **Tratado de Sèvres (1920)**:
 >   - **Postulado**: Desaparición del Imperio Otomano-Turco y firma del Tratado de Lausana.
 >   - **Explicación**: El Tratado de Sèvres desmembró el Imperio Otomano, cediendo la mayor parte de sus territorios a las potencias aliadas. Esto llevó a la creación de nuevas naciones en Medio Oriente y la reducción del territorio turco. Más tarde, el Tratado de Lausana (1923) definió las fronteras de la moderna Turquía.
 >
-> ![Tratado de Sèvres](./HU03_05_03.jpg)
+> ![Tratado de Sèvres](./images/HU03_05_03.jpg)
 > 
 > - **Tratado de Trianon (1920)**:
 >   - **Postulado**: Reducción del territorio húngaro para beneficiar a Rumania.
 >   - **Explicación**: El tratado se firmó con Hungría tras la disolución del Imperio Austrohúngaro. Hungría perdió más de dos tercios de su territorio y población, cediendo tierras a Rumania, Checoslovaquia y Yugoslavia. Este tratado generó resentimiento en Hungría, que se sintió injustamente castigada.
 >
-> ![Tratado de Sèvres](./HU03_05_05.jpg)
+> ![Tratado de Sèvres](./images/HU03_05_05.jpg)
 
 ---
 6. Se caracterizo por la destruccion de las maquinas e incendiar fabricas, se caracterizo porque los obreros luchan por sus derechos.
@@ -211,7 +211,7 @@ R: 1989
 >   - Aceleró la reunificación de Alemania (concretada en 1990).
 >   - Simbolizó el derrumbe del sistema comunista en Europa.
 
-![Division de Alemania](./HU03_08.gif)
+![Division de Alemania](./images/HU03_08.gif)
 
 ---
 9. Porque hubo tanta aceptacion al nacionalismo en alemania? 
@@ -252,4 +252,6 @@ R: Fuentes directas e indirectas
 >     - Libros de historia, artículos académicos, ensayos.
 >     - Análisis, informes y reseñas sobre hechos históricos.
 >     - Biografías escritas por personas que no presenciaron el evento.
+> 
+> 
 > 
