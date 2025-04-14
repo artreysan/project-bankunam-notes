@@ -17,21 +17,21 @@ R: Naturalizmo
 
 R: Balzac, Galsdos, Flaubert, Ibsen
 
-> ![Honoré de Balzac](./L04_02_01.jpg)
+> ![Honoré de Balzac](./images/L04_02_01.jpg)
 > ### 1. Honoré de Balzac (1799-1850)
 > - **Nacimiento**: Nació el 20 de mayo de 1799 en Tours, Francia.
 > - **Obra principal**: Es conocido por su monumental serie de novelas titulada *La Comédie Humaine*, que retrata la sociedad francesa de su tiempo.
 > - **Estilo**: Balzac es considerado uno de los precursores del realismo literario. Su estilo se caracteriza por una prosa detallada y una profunda exploración de la psicología de sus personajes.
 > - **Legado**: Influyó en numerosos escritores, incluidos Marcel Proust y Émile Zola. Su enfoque en la observación social y el detalle minucioso sentó las bases para la narrativa realista.
 > 
-> ![Benito Perez Galdos](./L03_05.jpg)
+> ![Benito Perez Galdos](../preguntas03/images/L03_05.jpg)
 > ### 2. Benito Pérez Galdós (1843-1920)
 > - **Nacimiento**: Nació el 10 de mayo de 1843 en Las Palmas de Gran Canaria, España.
 > - **Obra principal**: Es uno de los más destacados novelistas del siglo XIX español, conocido por obras como *Fortunata y Jacinta*, *Marianela* y *Los episodios nacionales*.
 > - **Estilo**: Su escritura combina el realismo y el naturalismo, abordando problemas sociales y políticos de la España de su época.
 > - **Legado**: Galdós es considerado el "cervantino" de su tiempo, y su obra ha influido en muchos escritores posteriores, así como en el desarrollo del teatro español.
 >
-> ![Gustave Flaubert](./L04_02_03.jpg)
+> ![Gustave Flaubert](./images/L04_02_03.jpg)
 >
 > ### 3. Gustave Flaubert (1821-1880)
 > - **Nacimiento**: Nació el 12 de diciembre de 1821 en Ruán, Francia.
@@ -39,7 +39,7 @@ R: Balzac, Galsdos, Flaubert, Ibsen
 > - **Estilo**: Flaubert es conocido por su búsqueda de la perfección en la forma literaria, así como por su enfoque crítico hacia la sociedad burguesa de su tiempo.
 > - **Legado**: Su trabajo ha influido en numerosos autores del siglo XX y es considerado un precursor del modernismo literario.
 > 
-> ![Henrik Ibsen](./L04_02_04.jpg)
+> ![Henrik Ibsen](./images/L04_02_04.jpg)
 >
 > ### 4. Henrik Ibsen (1828-1906)
 > - **Nacimiento**: Nació el 20 de marzo de 1828 en Skien, Noruega.

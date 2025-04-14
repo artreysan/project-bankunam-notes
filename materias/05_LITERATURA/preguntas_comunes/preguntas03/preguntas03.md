@@ -25,7 +25,7 @@ R:Dramatico
 
 R: Mario Vargas Llosa  
 
-> ![Mario Vargas Llosa](./L03_03.jpg)
+> ![Mario Vargas Llosa](./images/L03_03.jpg)
 >
 > Mario Vargas Llosa (nacido el 28 de marzo de 1936) es un escritor, político y ensayista peruano, considerado uno de los autores más influyentes de la literatura en español y una figura central en la narrativa contemporánea. Nació en Arequipa, Perú, y pasó gran parte de su vida en Lima.
 >
@@ -46,7 +46,7 @@ R:Modernismo
 
 R: Benito Perez Galdos 
 
-> ![Benito Perez Galdos](./L03_05.jpg)
+> ![Benito Perez Galdos](./images/L03_05.jpg)
 >
 > Benito Pérez Galdós (1843-1920) fue un destacado novelista, dramaturgo y político español, considerado uno de los más importantes autores de la literatura realista del siglo XIX. Nació en Las Palmas de Gran Canaria y se trasladó a Madrid, donde desarrolló la mayor parte de su carrera literaria. 
 >
@@ -59,7 +59,7 @@ R: Benito Perez Galdos
 
 R: Cristobal Nonato, Las buenas conciencias, La region mas importante.  
 
-> ![Carlos Fuentes](./L03_06.jpg)
+> ![Carlos Fuentes](./images/L03_06.jpg)
 >
 > Carlos Fuentes (1928-2012) fue un destacado novelista, ensayista y dramaturgo mexicano, considerado uno de los más importantes escritores de la literatura en español del siglo XX. Nacido en Ciudad de Panamá, pero criado en México, Fuentes tuvo una carrera literaria que abarcó más de seis décadas, en la que exploró temas como la identidad nacional, la historia y la cultura mexicana.
 >
@@ -75,15 +75,15 @@ R: Modernismo
 
 El Modernismo. Este movimiento, que tuvo su auge a finales del siglo XIX y principios del XX, se caracteriza por la búsqueda de la belleza estética, el uso de metáforas elaboradas y la musicalidad en la poesía. Poetas destacados de este movimiento incluyen a Rubén Darío y José Asunción Silva.
 
-![Ruben Dario](./L03_07_01.jpg)
-![José Asunción Silva](./L03_07_02.jpg)
+![Ruben Dario](./images/L03_07_01.jpg)
+![José Asunción Silva](./images/L03_07_02.jpg)
 
 ---
 8. Escritor colombian, ganador del premio nobel de literatura en 1982 tambien es autor de la novela cien años de soledad.  
 
 R: Gabriel García Márquez 
 
->![Gabriel García Márquez](./L03_08.jpg)
+>![Gabriel García Márquez](./images/L03_08.jpg)
 >
 > Gabriel García Márquez fue un escritor, periodista y novelista colombiano, nacido el 6 de marzo de 1927 en Aracataca y fallecido el 17 de abril de 2014 en Ciudad de México. Es ampliamente reconocido como uno de los más importantes autores del siglo XX y uno de los máximos exponentes del realismo mágico, un estilo literario que mezcla lo real con lo fantástico.
 >
@@ -100,7 +100,7 @@ R: Modernismo
 > 
 > **"Prosas profanas"**, también de Rubén Darío, fue publicada en 1896 y es otra obra emblemática del modernismo. A diferencia de "Azul", esta colección se centra más en el ensayo y la prosa poética. Los textos abordan una variedad de temas, incluyendo el arte, la vida cotidiana y reflexiones sobre la existencia humana, manteniendo un estilo lírico y estéticamente elaborado. Esta obra también resalta la influencia del simbolismo y destaca la importancia del lenguaje poético.
 >
-> ![Ruben Dario](./L03_07_01.jpg)
+> ![Ruben Dario](./images/L03_07_01.jpg)
 >
 > **Rubén Darío** (1867-1916) fue un poeta, periodista y diplomático nicaragüense, conocido como uno de los máximos exponentes del modernismo en la literatura hispanoamericana. Nacido en Metapa (actualmente Ciudad Darío), su obra se caracteriza por una búsqueda de la belleza y la musicalidad en el lenguaje, así como por su exploración de temas como el amor, la muerte, la naturaleza y la identidad.
 > 

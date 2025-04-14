@@ -141,7 +141,7 @@ R: Modernismo
 
 > El **modernismo** es un movimiento literario y artístico que surgió a finales del siglo XIX y se consolidó en las primeras décadas del siglo XX, especialmente en América Latina y España. Se caracteriza por una búsqueda de la renovación estética y la expresión de nuevas ideas y sensaciones en contraposición a los movimientos anteriores, como el realismo y el naturalismo.
 >
-> ![El beso. Gustav Klimt (1907)](./L01_06.jpg)
+> ![El beso. Gustav Klimt (1907)](./images/L01_06.jpg)
 >
 > ### Características del Modernismo:
 >
