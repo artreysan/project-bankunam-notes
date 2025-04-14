@@ -7,7 +7,7 @@ R: Proliferacion celular
 > 1. **Fases del Ciclo Celular**:
 >    - El ciclo celular se divide principalmente en dos etapas: **Interfase** y **Mitosis**.
 >
->![Ciclo celular](./B04_01.jpg)
+>![Ciclo celular](./images/B04_01.jpg)
 >    
 > 2. **Interfase**:
 >    - Esta es la fase más larga del ciclo celular, donde la célula se prepara para la división. Se divide en tres subfases:
@@ -33,7 +33,7 @@ R: Crecimiento celular
 
 > La **fase G1** es la primera etapa de la **interfase** del ciclo celular y se caracteriza por varias actividades clave que preparan a la célula para la replicación del ADN. A continuación, se detallan los aspectos más importantes de esta fase:
 >
-> ![Fase G1](./B04_02.png)
+> ![Fase G1](./images/B04_02.png)
 >
 > 1. **Duración**:
 >    - La duración de la fase G1 puede variar significativamente entre diferentes tipos de células y condiciones ambientales, pero generalmente dura varias horas. En algunas células, puede extenderse a días o incluso a años, especialmente en células que entran en un estado de reposo (fase G0).
@@ -76,7 +76,7 @@ R: Variacion genetica
 > 4. **Efecto en la Evolución**:
 >- La variabilidad genética generada por la meiosis es un motor fundamental de la evolución. Las nuevas combinaciones genéticas pueden favorecer la adaptación y la selección natural en las poblaciones.
 >
-> ![Meiosis](./B04_03.webp)
+> ![Meiosis](./images/B04_03.webp)
 
 ---
 4. Durante la meiosis, cuando 2 elementos de cada par de cromosomas homologos se separan, los pares de genes se ubican en diferentes gametos como resultado algunos individuos  pueden transmitir un caracter determinado, aunque ellos no lo manifiesten esto se conoce coomo la ley de:  
@@ -88,7 +88,7 @@ R: Ley de segregacion (Ley de mendel)
 >
 > - Durante la formación de los gametos (óvulos y espermatozoides), los alelos de un gen se segregan (separan) de manera que cada gameto recibe solo uno de los dos alelos que un organismo tiene para cada gen.
 >
-> ![Segunda ley de mendel](./B04_04.png)
+> ![Segunda ley de mendel](./images/B04_04.png)
 >
 > #### Principales Aspectos de la Ley de Segregación:
 >
@@ -134,7 +134,7 @@ Catabolismo:
 > 3. **Función**:
 >    - Los procesos anabólicos son cruciales para el crecimiento, la reparación de tejidos, la producción de biomoléculas y el almacenamiento de energía.
 >
-> ![Procesos Anabolicos y Catabolicos](./B04_05.jpg)
+> ![Procesos Anabolicos y Catabolicos](./images/B04_05.jpg)
 >
 > ### Procesos Catabólicos
 >
@@ -164,7 +164,7 @@ R: Secuencia de las bases
 > 2. **Secuencia de Bases**:
 >    - La secuencia específica de las bases nitrogenadas (A, T, C, G) en el ADN es lo que codifica la información genética. Esta secuencia determina la información necesaria para la síntesis de proteínas y, por lo tanto, es esencial para las funciones celulares y el desarrollo del organismo.
 >
-> ![Acido desoxirribonucleico](./B04_06.jpg)
+> ![Acido desoxirribonucleico](./images/B04_06.jpg)
 >
 > 3. **Estructura del ADN**:
 >    - El ADN tiene una estructura de doble hélice, donde las bases nitrogenadas de una cadena se emparejan con las de la cadena opuesta (A con T y C con G), formando "escalones" en la hélice. Esta estructura permite la replicación precisa del ADN durante la división celular.
@@ -202,7 +202,7 @@ R: Glucosa + Fructuosa
 > \text{Glucosa} + \text{Fructosa} \rightarrow \text{Sacarosa} + \text{H}_2\text{O}
 > $$
 > 
-> ![Sacarosa](./B04_08.jpg)
+> ![Sacarosa](./images/B04_08.jpg)
 >
 > ### Características de la Sacarosa:
 > - Es un disacárido comúnmente encontrado en muchas plantas, especialmente en la caña de azúcar y la remolacha azucarera.

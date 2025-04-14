@@ -4,7 +4,7 @@ R: Oxigeno O
 
 > Durante la fotosíntesis, en la etapa de la **fotólisis del agua**, una molécula de **H₂O** se rompe para producir inicialmente:
 >
-> ![Fotosintesis](./B03_01.png)
+> ![Fotosintesis](./images/B03_01.png)
 >
 > 1. **Oxígeno (O₂)**.
 > 2. **Protones (H⁺)**.
@@ -36,7 +36,7 @@ R: Alcoholica - Lactica
 >    $$
 >    C_3H_4O_3 \rightarrow C_2H_5OH + CO_2
 >    $$
->   ![](./B03_02_01.png)
+>   ![.](./images/B03_02_01.png)
 >
 > 2. **Fermentación Láctica**:
 >    - El ácido pirúvico ($C_3H_4O_3$) se reduce a **ácido láctico** ($C_3H_6O_3$) en condiciones de baja disponibilidad de oxígeno.
@@ -46,7 +46,7 @@ R: Alcoholica - Lactica
 >    C_3H_4O_3 + NADH \rightarrow C_3H_6O_3 + NAD^+
 >    $$
 >
->   ![](./B03_02_02.png)
+>   ![.](./images/B03_02_02.png)
 >
 ---
 
@@ -56,7 +56,7 @@ R: Material genetico extracromosomal que se localiza en el citoplasma de las bac
 
 > Los **plásmidos** son **pequeñas moléculas de ADN circular** que se encuentran en el interior de las células bacterianas y, en algunos casos, en células eucariotas. A continuación, se describen sus características principales:
 >
-> ![Estructura de una bacteria](./B03_03.png)
+> ![Estructura de una bacteria](./images/B03_03.png)
 >
 > 1. **Autónomos y Replicativos**:
 >    - Se replican de manera independiente del ADN cromosómico principal de la célula.
@@ -90,7 +90,7 @@ R: Homocigoto
 > 2. **Expresión Genética**:
 >    - Los homocigotos expresan de manera consistente el rasgo asociado con sus alelos, ya sea dominante o recesivo.
 >
-> ![Homocigotos y Heterocigoto](./B03_04.jpg)
+> ![Homocigotos y Heterocigoto](./images/B03_04.jpg)
 > Un **heterocigoto** es un organismo que tiene **dos alelos diferentes** para un gen específico en un par de cromosomas homólogos. Estos alelos pueden ser uno dominante y el otro recesivo. A continuación, se detallan sus características:
 >
 > 1. **Genotipo**:
@@ -159,7 +159,7 @@ R: Transformacion de energia
 
 > En una **cadena trófica** se describe el **flujo de energía y nutrientes** a través de diferentes niveles de organismos dentro de un ecosistema. A continuación, se presentan los eventos principales que ocurren en una cadena trófica:
 >
->![Cadena Trofica](./B03_07.jpg)
+>![Cadena Trofica](./images/B03_07.jpg)
 >
 > 1. **Transferencia de Energía**:
 >    - La energía fluye desde los **productores primarios** (plantas y algas) hasta los **consumidores** (herbívoros, carnívoros y omnívoros).
@@ -254,4 +254,4 @@ R: Ecosistema
 >    - Hay diferentes tipos de ecosistemas, como los **ecosistemas terrestres** (bosques, praderas) y **ecosistemas acuáticos** (ríos, lagos, océanos).
 >
 
-![Ecosistema](./B03_10.png)
+![Ecosistema](./images/B03_10.png)

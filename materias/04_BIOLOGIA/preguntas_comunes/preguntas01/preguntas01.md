@@ -13,7 +13,7 @@
 2. Nombre del cientifico que dio el termino "Cellulae" despues de observar cortezas de arbol
 
 R: Rober Hooke
-![Rober Hooke](./B01_02.jpg)
+![Rober Hooke](./images/B01_02.jpg)
 
 > Robert Hooke fue un científico inglés del siglo XVII, conocido por sus importantes contribuciones en diversas áreas, como la física, biología y astronomía. Es famoso principalmente por:
 
@@ -139,7 +139,7 @@ R: La etapa M
 
 > R: Gregor Mendel
 
-![Gregor Mendel](./B01_09.jpg)
+![Gregor Mendel](./images/B01_09.jpg)
 
 > #### Gregor Mendel
 >
@@ -159,7 +159,6 @@ R: La etapa M
 >
 > - **Legado**:
 >   - Mendel es considerado el padre de la genética debido a su influencia en el desarrollo de esta disciplina científica.
-
 
 ---
 
@@ -186,4 +185,4 @@ R: Endosimbiotica
 >   - La teoría explica cómo los eucariotas desarrollaron organelos especializados que realizan funciones específicas, como la producción de energía (mitocondrias) y la fotosíntesis (cloroplastos).
 >   - Fue propuesta por Lynn Margulis en la década de 1960 y ha sido fundamental para la comprensión de la evolución celular.
 
-> ![Teoría Endosimbiótica](./B01_10.png)
+> ![Teoría Endosimbiótica](./images/B01_10.png)

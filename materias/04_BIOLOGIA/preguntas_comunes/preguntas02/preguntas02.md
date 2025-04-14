@@ -6,7 +6,7 @@ R: Centriolo
 > 
 > 1. **Definición**:
 >    - Un centriolo es una estructura cilíndrica formada por **microtúbulos**, específicamente compuesta por nueve tripletes de microtúbulos dispuestos en un patrón circular.
->![Centriolos](./B02_01.jpg) 
+>![Centriolos](./images/B02_01.jpg) 
 > 
 > 2. **Función principal**:
 >    - Los centriolos participan en la formación del **huso mitótico** durante la división celular, ayudando a organizar los microtúbulos que separan los cromosomas.
@@ -34,7 +34,7 @@ R: Quimica
 > 2. **Explicación detallada**:
 >    - Durante la **fase oscura** (ciclo de Calvin), la energía química almacenada en el ATP y el NADPH es utilizada para fijar el CO₂ y sintetizar carbohidratos.
 >
->![Fotosintesis](./B02_02.png)
+>![Fotosintesis](./images/B02_02.png)
 >
 >    - El **ATP** proporciona la energía necesaria, mientras que el **NADPH** suministra los electrones para reducir las moléculas de CO₂.
 > 
@@ -47,7 +47,7 @@ R: Quimica
 
 R: El tipo de azucar 
  
-> ![Diferencias DNA Y RNA](./B02_03.png)
+> ![Diferencias DNA Y RNA](./images/B02_03.png)
 > #### Diferencias estructurales entre ADN y ARN
 > 
 > 1. **Azúcar**:
@@ -161,7 +161,7 @@ R: Evolucion
 
 > **Archaeopteryx en la Evolución**
 >
->![Archaeopteryx](./B02_08.jpg)
+>![Archaeopteryx](./images/B02_08.jpg)
 >
 > El **Archaeopteryx** es considerado uno de los primeros fósiles de aves y data de aproximadamente 150 millones de años, durante el período Jurásico. Su descubrimiento fue crucial para entender la evolución de las aves a partir de los reptiles. 
 >
