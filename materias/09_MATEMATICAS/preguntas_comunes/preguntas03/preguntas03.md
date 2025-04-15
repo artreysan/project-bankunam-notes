@@ -119,7 +119,7 @@ R: -7/5
 
 ---
 4. Simplifica la expresion: 
-![Problema 04](./imagen090307.png) 
+![Problema 04](./images/M03_04.png) 
 
 R:1/b+1
 
@@ -335,7 +335,7 @@ R: (y-3)^2 = 12(x-2)
 ---
 09. La ecuacion:
 
-![Problema 07](./imagen090309.png) 
+![Problema 9](./images/M03_09.png) 
 
 Que representa la ecuacion anterior: 
 

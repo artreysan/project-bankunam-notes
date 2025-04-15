@@ -91,7 +91,7 @@ es el intervalo $(4, \infty)$, lo cual significa que incluye todos los números 
 ---
 7. A que funcion corresponde la siguente grafica:
 
-![Problema 07](./imagen0907.png)
+![Problema 07](./images/M02_07.png)
 
 R: f(x) = cos(x)
 
@@ -116,7 +116,7 @@ R: f(x) = cos(x)
 ---
 8. ¿Cual de las siguientes graficas corresponde a la funcion y = 3x? 
 
-![Problema 09](./imagen0908.png)
+![Problema 8](./images/M02_08.png)
 
 R: A  
 

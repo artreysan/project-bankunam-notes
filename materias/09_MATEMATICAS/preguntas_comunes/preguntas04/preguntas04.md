@@ -1,6 +1,6 @@
 1.  El rango o imagen de la funcion es:
 
-![Problema 01](./imagen090401.png) 
+![Problema 01](./images/M04_01.png) 
 
 R: (0,infinito) 
 
@@ -8,21 +8,21 @@ R: (0,infinito)
 
 2. EN la siguiente grafica, Cuales son los ceros de la ecuacion de segundo grado? 
 
-![Problema 02](./imagen090402.png) 
+![Problema 02](./images/M04_02.png) 
 
 R:  X = -1, X = 3
 
 ---
 3. Cual de las siguientes graficas representa una funcion creciene?
 
-![Problema 03](./imagen090403.png) 
+![Problema 03](./images/M04_03.png) 
 
 R: D 
 
 ---
 4. Cual es la pendiente de la recta que se muestra en la figura?
 
-![Problema 04](./imagen090404.png) 
+![Problema 04](./images/M04_04.png) 
 
 R:-3/2 
 
